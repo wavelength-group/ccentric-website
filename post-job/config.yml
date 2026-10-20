@@ -1,0 +1,60 @@
+backend:
+  name: github
+  repo: wavelength-group/ccentric-website
+  branch: main
+
+site_url: https://ccentric-website.netlify.app
+display_url: https://ccentric-website.netlify.app
+
+media_folder: "src/static/uploads"
+public_folder: "/uploads"
+
+# Jobs-only view for the Ccentric team. Consultants and other settings are not
+# exposed here - a consultant is assigned by the marketing admin in /admin.
+collections:
+  - name: jobs
+    label: Job Opportunities
+    label_singular: Job
+    description: >-
+      Add or update a role. Fill in the fields and press Publish. The role
+      appears on the Opportunities page within a minute or two. A Ccentric
+      consultant contact is added by the marketing team afterwards.
+    folder: src/jobs
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: frontmatter
+    identifier_field: title
+    summary: "{{title}} — {{location}}"
+    sortable_fields: [postedDate, title, location]
+    fields:
+      - { label: Role title, name: title, widget: string }
+      - { label: Location, name: location, widget: string, hint: "City, State — e.g. Sydney, NSW" }
+      - label: Type
+        name: type
+        widget: select
+        options: ["Permanent", "Interim / Locum"]
+        default: Permanent
+      - label: Sector
+        name: sector
+        widget: select
+        options:
+          ["Healthcare", "Academia", "Digital Health & Life Sciences", "Aged Care", "Not-for-Profit", "Private Equity"]
+        default: Healthcare
+      - { label: Reference, name: reference, widget: string, hint: "e.g. CC-1049" }
+      - { label: Teaser (listing card), name: teaser, widget: text, hint: "One or two sentences shown on the Opportunities list." }
+      - { label: Meta description (SEO), name: metaDescription, widget: text, required: false }
+      - label: Posted date
+        name: postedDate
+        widget: datetime
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        picker_utc: true
+      - { label: Published, name: published, widget: boolean, default: true }
+      - label: Role detail
+        name: body
+        widget: markdown
+        hint: >-
+          Use H2 headings (The Opportunity / About the Role / Key Responsibilities /
+          What's on Offer / About You). Do NOT add a 'How to Apply' section — it is
+          added automatically.

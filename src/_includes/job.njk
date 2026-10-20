@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Director of Nursing — Melbourne, VIC — Ccentric</title>
-<meta name="description" content="Director of Nursing opportunity, Melbourne VIC. Shape nursing and midwifery practice and workforce strategy across a large acute care network. Apply via Ccentric.">
+<title>{{ title }} — {{ location }} — Ccentric</title>
+<meta name="description" content="{{ metaDescription }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;700;800&display=swap" rel="stylesheet">
 <style>
@@ -33,7 +33,7 @@
   .breadcrumb{font-size:12.5px; color:#7fa6a3; margin-bottom:22px;}
   .breadcrumb a:hover{color:var(--teal);}
   .job-type-pill{display:inline-block; font-size:11px; font-weight:800; letter-spacing:.05em; text-transform:uppercase; padding:6px 14px; border-radius:100px; background:var(--stone-tint); color:var(--pine-mid); margin-bottom:18px;}
-  .jhero h1{font-weight:800; font-size:clamp(28px,4vw,44px); line-height:1.15; letter-spacing:-.01em; color:#fff; max-width:22ch;}
+  .jhero h1{font-weight:800; font-size:clamp(28px,4vw,44px); line-height:1.15; letter-spacing:-.01em; color:#fff; max-width:20ch;}
   .jhero .meta{display:flex; gap:22px; flex-wrap:wrap; margin-top:20px; font-size:14px; color:#a9c9c6;}
   .jhero .hbtn{background:var(--teal); color:var(--pine-dk); padding:14px 30px; font-size:13.5px; font-weight:800; text-transform:uppercase; display:inline-block; margin-top:28px;}
   .jhero .hbtn:hover{opacity:.85;}
@@ -68,8 +68,7 @@
   .footer-dark .logo{display:flex; align-items:center;} .footer-dark .logo-img{height:38px;}
   .footer-cols{display:flex; gap:48px; flex-wrap:wrap;}
   .footer-cols h4{font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--teal); margin:0 0 12px; font-weight:800;}
-  .footer-cols li{font-size:13.5px; margin-bottom:8px; color:#a9c9c6;} 
-  .footer-cols a:hover{color:var(--teal);}
+  .footer-cols li{font-size:13.5px; margin-bottom:8px; color:#a9c9c6;} .footer-cols a:hover{color:var(--teal);}
   .social-row{display:flex; gap:10px; margin-top:20px;}
   .social-row a{width:34px; height:34px; border-radius:50%; border:1px solid rgba(255,255,255,.25); display:flex; align-items:center; justify-content:center; font-size:12px; font-weight:700; color:#cfe6e4;}
   .social-row a:hover{border-color:var(--teal); color:var(--teal);}
@@ -113,50 +112,30 @@
   </nav>
 
   <header class="jhero">
-    <div class="breadcrumb"><a href="ccentric-opportunities.html">Current Opportunities</a> / Director of Nursing</div>
-    <div class="job-type-pill">Permanent</div>
-    <h1>Director of Nursing</h1>
-    <div class="meta"><span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M12 21s7-7.2 7-12.5A7 7 0 0 0 5 8.5C5 13.8 12 21 12 21z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="8.5" r="2.2" stroke="currentColor" stroke-width="1.6"/></svg>Melbourne, VIC</span><span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>Healthcare</span><span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M11.5 3H4v7.5L13.5 20l7-7L11.5 3z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="7.7" cy="7.2" r="1.15" fill="currentColor"/></svg>Ref: CC-1043</span></div>
+    <div class="breadcrumb"><a href="ccentric-opportunities.html">Current Opportunities</a> / {{ title }}</div>
+    <div class="job-type-pill">{{ type }}</div>
+    <h1>{{ title }}</h1>
+    <div class="meta"><span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M12 21s7-7.2 7-12.5A7 7 0 0 0 5 8.5C5 13.8 12 21 12 21z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="8.5" r="2.2" stroke="currentColor" stroke-width="1.6"/></svg>{{ location }}</span><span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>{{ sector }}</span>{% if reference %}<span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M11.5 3H4v7.5L13.5 20l7-7L11.5 3z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="7.7" cy="7.2" r="1.15" fill="currentColor"/></svg>Ref: {{ reference }}</span>{% endif %}</div>
     <a href="ccentric-contact.html" class="hbtn">Apply Now</a>
   </header>
 
   <section class="jbody">
     <div class="jbody-grid">
       <div class="jbody-copy">
-        <h2>About the Role</h2>
-        <p>A large acute care network is seeking a Director of Nursing to lead nursing and midwifery practice across its sites. Reporting to the Executive Director of Clinical Services, you'll set the standard for clinical care, workforce planning and professional development across the nursing workforce.</p>
-        <p>This role carries real influence over patient care standards and staff culture, working closely with clinical directors, unit managers and the executive team.</p>
-
-        <h2>Key Responsibilities</h2>
-        <ul>
-          <li>Lead nursing and midwifery strategy, standards and professional practice</li>
-          <li>Oversee nursing workforce planning, recruitment and retention</li>
-          <li>Drive clinical quality, patient safety and care standards</li>
-          <li>Partner with clinical directors and unit managers across all sites</li>
-          <li>Represent nursing leadership at the executive and board level</li>
-          <li>Support education, training and career development pathways</li>
-        </ul>
-
-        <h2>About You</h2>
-        <ul>
-          <li>Registered Nurse with current AHPRA registration</li>
-          <li>Substantial experience in senior nursing leadership</li>
-          <li>Strong understanding of clinical governance and workforce planning</li>
-          <li>Demonstrated ability to lead through change</li>
-          <li>Excellent interpersonal and stakeholder management skills</li>
-        </ul>
-
+{{ content | safe }}
         <h2>How to Apply</h2>
-        <p>For a confidential discussion or to apply, contact Ccentric via the button below or email our team directly.</p>
-      </div>
+{% set c = collections.consultants | consultantBySlug(consultant) %}
+{% if c %}        <p>Apply using the button on this page. For a confidential discussion or to request an information pack, contact {{ c.name }} on <a href="tel:{{ c.phone | noSpace }}">{{ c.phone }}</a> or at <a href="mailto:{{ c.email }}">{{ c.email }}</a>.</p>
+{% else %}        <p>For a confidential discussion or to apply, contact Ccentric via the button below or email our team directly.</p>
+{% endif %}      </div>
 
       <div class="apply-card">
         <h3>Role Summary</h3>
         <dl>
-          <dt>Location</dt><dd>Melbourne, VIC</dd>
-          <dt>Type</dt><dd>Permanent</dd>
-          <dt>Industry</dt><dd>Healthcare</dd>
-          <dt>Reference</dt><dd>CC-1043</dd>
+          <dt>Location</dt><dd>{{ location }}</dd>
+          <dt>Type</dt><dd>{{ type }}</dd>
+          <dt>Industry</dt><dd>{{ sector }}</dd>
+          <dt>Reference</dt><dd>{{ reference }}</dd>
         </dl>
         <a href="ccentric-contact.html" class="hbtn">Apply Now</a>
       </div>
@@ -166,12 +145,8 @@
   <section class="other-roles">
     <h2>Other Current Opportunities</h2>
     <div class="other-list">
-      <a href="ccentric-opportunity-chief-medical-officer.html">Chief Medical Officer <span>Sydney, NSW · Permanent</span></a>
-      <a href="ccentric-opportunity-interim-chief-executive-officer.html">Interim Chief Executive Officer <span>Brisbane, QLD · Interim / Locum</span></a>
-      <a href="ccentric-opportunity-head-of-school.html">Head of School — Nursing &amp; Midwifery <span>Adelaide, SA · Permanent</span></a>
-      <a href="ccentric-opportunity-chief-digital-health-officer.html">Chief Digital Health Officer <span>Sydney, NSW · Permanent</span></a>
-      <a href="ccentric-opportunity-executive-director.html">Executive Director <span>Perth, WA · Permanent</span></a>
-    </div>
+{% for job in collections.jobs | otherJobs(page.url) %}      <a href="{{ job.href }}">{{ job.title }} <span>{{ job.location }} · {{ job.type }}</span></a>
+{% endfor %}    </div>
   </section>
 
   <footer class="footer-dark">

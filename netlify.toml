@@ -1,4 +1,8 @@
 # Netlify configuration for the Ccentric website
-# Plain static HTML site - no build step required.
+# Static site generated with Eleventy from content in /src.
 [build]
-  publish = "."
+  command = "npm run build"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "20"

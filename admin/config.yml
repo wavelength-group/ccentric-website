@@ -1,0 +1,83 @@
+backend:
+  name: github
+  repo: wavelength-group/ccentric-website
+  branch: main
+
+# Preview/admin site address (update to the live domain after cut-over)
+site_url: https://ccentric-website.netlify.app
+display_url: https://ccentric-website.netlify.app
+
+# Image uploads (jobs currently use no images; here for future use)
+media_folder: "src/static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: jobs
+    label: Job Opportunities
+    label_singular: Job
+    description: >-
+      Current roles shown on the Opportunities page. Create, edit, unpublish or
+      delete roles here. Saving publishes to the live site within a minute or two.
+    folder: src/jobs
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: frontmatter
+    identifier_field: title
+    summary: "{{title}} — {{location}}"
+    sortable_fields: [postedDate, title, location]
+    fields:
+      - { label: Role title, name: title, widget: string }
+      - { label: Location, name: location, widget: string, hint: "City, State — e.g. Sydney, NSW" }
+      - label: Type
+        name: type
+        widget: select
+        options: ["Permanent", "Interim / Locum"]
+        default: Permanent
+      - label: Sector
+        name: sector
+        widget: select
+        options:
+          ["Healthcare", "Academia", "Digital Health & Life Sciences", "Aged Care", "Not-for-Profit", "Private Equity"]
+        default: Healthcare
+      - { label: Reference, name: reference, widget: string, hint: "e.g. CC-1049" }
+      - label: Consultant
+        name: consultant
+        widget: relation
+        collection: consultants
+        value_field: "{{slug}}"
+        search_fields: [name]
+        display_fields: [name]
+        required: false
+        hint: "Leave blank to show the generic 'contact Ccentric' wording."
+      - { label: Teaser (listing card), name: teaser, widget: text, hint: "One or two sentences shown on the Opportunities list." }
+      - { label: Meta description (SEO), name: metaDescription, widget: text, required: false }
+      - label: Posted date
+        name: postedDate
+        widget: datetime
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        picker_utc: true
+      - { label: Published, name: published, widget: boolean, default: true }
+      - label: Role detail
+        name: body
+        widget: markdown
+        hint: >-
+          Use H2 headings (The Opportunity / About the Role / Key Responsibilities /
+          What's on Offer / About You). Do NOT add a 'How to Apply' section — it is
+          added automatically from the consultant.
+
+  - name: consultants
+    label: Consultants
+    label_singular: Consultant
+    description: The Ccentric contacts that can be attached to a role.
+    folder: src/consultants
+    create: true
+    slug: "{{slug}}"
+    identifier_field: name
+    extension: md
+    format: frontmatter
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: Phone, name: phone, widget: string, hint: "Shown on the page and used for the click-to-call link." }
+      - { label: Email, name: email, widget: string }
