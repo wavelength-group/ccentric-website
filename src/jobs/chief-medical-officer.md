@@ -1,12 +1,12 @@
 ---
 title: Chief Medical Officer
-location: "Sydney, NSW"
+location: Sydney, NSW
 type: Permanent
 sector: Healthcare
 reference: CC-1042
-consultant: ""
-teaser: "Lead clinical strategy and medical governance for a major metropolitan health service, working directly with the executive team and board."
-metaDescription: "Chief Medical Officer opportunity, Sydney NSW. Lead clinical strategy and medical governance for a major metropolitan health service. Apply via Ccentric."
+consultant: Kim Gillespie
+teaser: Lead clinical strategy and medical governance for a major metropolitan health service, working directly with the executive team and board.
+metaDescription: Chief Medical Officer opportunity, Sydney NSW. Lead clinical strategy and medical governance for a major metropolitan health service. Apply via Ccentric.
 postedDate: 2026-09-30
 published: true
 ---
