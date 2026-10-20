@@ -196,20 +196,22 @@
       <div class="form-card" id="send-message">
         <h3>Send us a message</h3>
         <div class="sub">We'll get back to you within one business day.</div>
-        <form onsubmit="return false;">
+        <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="contact">
+          <p hidden><label>Leave this field empty: <input name="bot-field"></label></p>
           <div class="field-row">
-            <div class="field"><label for="fname">Name</label><input id="fname" type="text" placeholder="Your full name"></div>
-            <div class="field"><label for="fphone">Phone</label><input id="fphone" type="tel" placeholder="Your phone number"></div>
+            <div class="field"><label for="fname">Name</label><input id="fname" name="name" type="text" placeholder="Your full name" required></div>
+            <div class="field"><label for="fphone">Phone</label><input id="fphone" name="phone" type="tel" placeholder="Your phone number"></div>
           </div>
-          <div class="field"><label for="femail">Email</label><input id="femail" type="email" placeholder="you@company.com"></div>
+          <div class="field"><label for="femail">Email</label><input id="femail" name="email" type="email" placeholder="you@company.com" required></div>
           <div class="field"><label for="fenq">I am enquiring as a</label>
-            <select id="fenq">
+            <select id="fenq" name="enquiring-as">
               <option>Client — I'm hiring</option>
               <option>Candidate — I'm exploring roles</option>
               <option>Other enquiry</option>
             </select>
           </div>
-          <div class="field"><label for="fmsg">Message</label><textarea id="fmsg" placeholder="Tell us a little about what you need"></textarea></div>
+          <div class="field"><label for="fmsg">Message</label><textarea id="fmsg" name="message" placeholder="Tell us a little about what you need" required></textarea></div>
           <button type="submit" class="submit-btn">Send Message</button>
         </form>
       </div>
