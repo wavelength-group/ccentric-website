@@ -1,12 +1,12 @@
 ---
-title: "Head of School — Nursing & Midwifery"
-location: "Adelaide, SA"
+title: Head of School — Nursing & Midwifery
+location: Adelaide, SA
 type: Permanent
 sector: Academia
 reference: CC-1045
-consultant: ""
-teaser: "Lead academic strategy, research direction and staff development for a leading health faculty."
-metaDescription: "Head of School (Nursing & Midwifery) opportunity, Adelaide SA. Lead academic strategy, research direction and staff development for a leading health faculty. Apply via Ccentric."
+consultant: Kim Gillespie
+teaser: Lead academic strategy, research direction and staff development for a leading health faculty.
+metaDescription: Head of School (Nursing & Midwifery) opportunity, Adelaide SA. Lead academic strategy, research direction and staff development for a leading health faculty. Apply via Ccentric.
 postedDate: 2026-09-27
 published: true
 ---
