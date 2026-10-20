@@ -15,11 +15,11 @@ published: true
 
 For the first twelve months you are a one-person business unit. There is no team to inherit, no pipeline to manage, no one to delegate to, and no brand recognition to trade on. Your days are spent approaching German biotech and medtech founders who have never heard of us, convincing them that raising from a crowd of private investors is a serious instrument rather than a curiosity, and at the same time convincing private investors and business angels to back companies they would not otherwise have seen. You will do this in German, cold, and you will hear no a great many times before you hear yes.
 
-If you assess investments for a living, read this carefully
+**If you assess investments for a living, read this carefully**
 
 We work alongside German funds and business angels and expect to co-invest with many of them, and nothing here is a comment on that profession. But this role sits on the other side of that conversation. The day is spent originating and persuading rather than evaluating, and the people who have made our other markets work came from commercial and ecosystem-building backgrounds rather than from investment committees. If your instinct on reading this advertisement is to begin with diligence questions about our model, this is probably not the role you are looking for.
 
-The target
+**The target**
 
 Six completed raises on the platform in your first twelve months.
 
