@@ -1,12 +1,12 @@
 ---
 title: Executive Director
-location: "Perth, WA"
+location: Perth, WA
 type: Permanent
 sector: Not-for-Profit
 reference: CC-1047
-consultant: ""
+consultant: Pam Lubrainschik
 teaser: Lead a mission-driven community health organisation through its next stage of growth.
-metaDescription: "Executive Director opportunity, Perth WA. Lead a mission-driven community health organisation through its next stage of growth. Apply via Ccentric."
+metaDescription: Executive Director opportunity, Perth WA. Lead a mission-driven community health organisation through its next stage of growth. Apply via Ccentric.
 postedDate: 2026-09-25
 published: true
 ---
