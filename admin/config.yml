@@ -25,7 +25,11 @@ collections:
     format: frontmatter
     identifier_field: title
     summary: "{{title}} — {{location}}  ·  {{postedDate | date('D MMM YYYY')}}  ·  {{consultant}}"
-    sortable_fields: [postedDate, title, location]
+    sortable_fields:
+      fields: [consultant, postedDate, title, location]
+      default:
+        field: consultant
+        direction: ascending
     fields:
       - { label: Role title, name: title, widget: string }
       - { label: Location, name: location, widget: string, hint: "City, State — e.g. Sydney, NSW" }
