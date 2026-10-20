@@ -114,7 +114,8 @@
 {%- set c = collections.consultants | consultantLookup(consultant) -%}
 {%- set subj = "Application: " + title -%}
 {%- if reference -%}{%- set subj = subj + " (" + reference + ")" -%}{%- endif -%}
-{%- if c -%}{%- set applyHref = "mailto:" + c.email + "?subject=" + (subj | urlencode) -%}{%- else -%}{%- set applyHref = "ccentric-contact.html" -%}{%- endif -%}
+{%- set applyBody = "Dear " + (c.name | firstName if c else "Ccentric team") + ",\n\nI would like to apply for the " + title + " role. Please find my CV attached, and I would welcome the opportunity to discuss the position.\n\nKind regards," -%}
+{%- if c -%}{%- set applyHref = "mailto:" + c.email + "?subject=" + (subj | urlencode) + "&body=" + (applyBody | urlencode) -%}{%- else -%}{%- set applyHref = "ccentric-contact.html" -%}{%- endif -%}
   <header class="jhero">
     <div class="breadcrumb"><a href="ccentric-opportunities.html">Current Opportunities</a> / {{ title }}</div>
     <div class="job-type-pill">{{ type }}</div>

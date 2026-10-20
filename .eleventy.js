@@ -40,6 +40,9 @@ module.exports = function (eleventyConfig) {
   // Strip spaces for tel: links
   eleventyConfig.addFilter("noSpace", (s) => (s || "").replace(/\s+/g, ""));
 
+  // First word of a name, for greetings
+  eleventyConfig.addFilter("firstName", (s) => (s || "").trim().split(/\s+/)[0]);
+
   // Listing card CSS class from the job type
   eleventyConfig.addFilter("typeClass", (t) =>
     /interim|locum/i.test(t || "") ? "interim" : "permanent"
