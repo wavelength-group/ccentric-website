@@ -1,0 +1,4 @@
+# Netlify configuration for the Ccentric website
+# Plain static HTML site - no build step required.
+[build]
+  publish = "."
