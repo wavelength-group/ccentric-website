@@ -1,12 +1,12 @@
 ---
 title: Director of Nursing
-location: "Melbourne, VIC"
+location: Melbourne, VIC
 type: Permanent
 sector: Healthcare
 reference: CC-1043
-consultant: ""
-teaser: "Shape nursing and midwifery practice, workforce strategy and clinical standards across a large acute care network."
-metaDescription: "Director of Nursing opportunity, Melbourne VIC. Shape nursing and midwifery practice and workforce strategy across a large acute care network. Apply via Ccentric."
+consultant: Kim Gillespie
+teaser: Shape nursing and midwifery practice, workforce strategy and clinical standards across a large acute care network.
+metaDescription: Director of Nursing opportunity, Melbourne VIC. Shape nursing and midwifery practice and workforce strategy across a large acute care network. Apply via Ccentric.
 postedDate: 2026-09-29
 published: true
 ---
