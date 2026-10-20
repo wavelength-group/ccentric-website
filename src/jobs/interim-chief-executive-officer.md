@@ -1,12 +1,12 @@
 ---
 title: Interim Chief Executive Officer
-location: "Brisbane, QLD"
+location: Brisbane, QLD
 type: Interim / Locum
 sector: Aged Care
 reference: CC-1044
-consultant: ""
-teaser: "Provide steady, experienced leadership through a period of organisational transition for a residential aged care provider."
-metaDescription: "Interim Chief Executive Officer opportunity, Brisbane QLD. Provide steady, experienced leadership through a period of organisational transition. Apply via Ccentric."
+consultant: Pam Lubrainschik
+teaser: Provide steady, experienced leadership through a period of organisational transition for a residential aged care provider.
+metaDescription: Interim Chief Executive Officer opportunity, Brisbane QLD. Provide steady, experienced leadership through a period of organisational transition. Apply via Ccentric.
 postedDate: 2026-09-28
 published: true
 ---
