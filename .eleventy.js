@@ -29,9 +29,11 @@ module.exports = function (eleventyConfig) {
   );
 
   // Look up a consultant (folder collection item) by its file slug
-  eleventyConfig.addFilter("consultantBySlug", (list, slug) => {
-    if (!slug || !list) return null;
-    const m = (list || []).find((c) => c.fileSlug === slug);
+  eleventyConfig.addFilter("consultantLookup", (list, val) => {
+    if (!val || !list) return null;
+    const m = (list || []).find(
+      (c) => c.fileSlug === val || c.data.name === val
+    );
     return m ? m.data : null;
   });
 

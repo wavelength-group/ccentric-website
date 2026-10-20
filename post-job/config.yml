@@ -25,7 +25,7 @@ collections:
     extension: md
     format: frontmatter
     identifier_field: title
-    summary: "{{title}} — {{location}}"
+    summary: "{{title}} — {{location}}  ·  {{postedDate | date('D MMM YYYY')}}"
     sortable_fields: [postedDate, title, location]
     fields:
       - { label: Role title, name: title, widget: string }

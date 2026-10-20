@@ -124,7 +124,7 @@
       <div class="jbody-copy">
 {{ content | safe }}
         <h2>How to Apply</h2>
-{% set c = collections.consultants | consultantBySlug(consultant) %}
+{% set c = collections.consultants | consultantLookup(consultant) %}
 {% if c %}        <p>Apply using the button on this page. For a confidential discussion or to request an information pack, contact {{ c.name }} on <a href="tel:{{ c.phone | noSpace }}">{{ c.phone }}</a> or at <a href="mailto:{{ c.email }}">{{ c.email }}</a>.</p>
 {% else %}        <p>For a confidential discussion or to apply, contact Ccentric via the button below or email our team directly.</p>
 {% endif %}      </div>

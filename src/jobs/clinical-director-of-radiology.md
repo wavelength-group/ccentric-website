@@ -4,7 +4,7 @@ location: "Shepparton, VIC"
 type: Permanent
 sector: Healthcare
 reference: CC-1048
-consultant: kim-gillespie
+consultant: "Kim Gillespie"
 teaser: "Lead an established, radiologist-led imaging service across regional Victoria while maintaining your own clinical practice. Hybrid model, seven-figure package. FRANZCR required."
 metaDescription: "Clinical Director of Radiology, Keystone Radiology, Shepparton VIC. Lead an established radiologist-led imaging service while maintaining private practice. FRANZCR required. Apply via Ccentric."
 postedDate: 2026-10-07

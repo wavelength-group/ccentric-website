@@ -24,7 +24,7 @@ collections:
     extension: md
     format: frontmatter
     identifier_field: title
-    summary: "{{title}} — {{location}}"
+    summary: "{{title}} — {{location}}  ·  {{postedDate | date('D MMM YYYY')}}  ·  {{consultant}}"
     sortable_fields: [postedDate, title, location]
     fields:
       - { label: Role title, name: title, widget: string }
@@ -45,7 +45,7 @@ collections:
         name: consultant
         widget: relation
         collection: consultants
-        value_field: "{{slug}}"
+        value_field: "name"
         search_fields: [name]
         display_fields: [name]
         required: false
