@@ -111,12 +111,16 @@
     <a href="ccentric-contact.html" class="hcta">Get in Touch</a>
   </nav>
 
+{%- set c = collections.consultants | consultantLookup(consultant) -%}
+{%- set subj = "Application: " + title -%}
+{%- if reference -%}{%- set subj = subj + " (" + reference + ")" -%}{%- endif -%}
+{%- if c -%}{%- set applyHref = "mailto:" + c.email + "?subject=" + (subj | urlencode) -%}{%- else -%}{%- set applyHref = "ccentric-contact.html" -%}{%- endif -%}
   <header class="jhero">
     <div class="breadcrumb"><a href="ccentric-opportunities.html">Current Opportunities</a> / {{ title }}</div>
     <div class="job-type-pill">{{ type }}</div>
     <h1>{{ title }}</h1>
     <div class="meta"><span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M12 21s7-7.2 7-12.5A7 7 0 0 0 5 8.5C5 13.8 12 21 12 21z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="12" cy="8.5" r="2.2" stroke="currentColor" stroke-width="1.6"/></svg>{{ location }}</span><span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>{{ sector }}</span>{% if reference %}<span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="display:inline-block;vertical-align:-4px;margin-right:7px;"><path d="M11.5 3H4v7.5L13.5 20l7-7L11.5 3z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><circle cx="7.7" cy="7.2" r="1.15" fill="currentColor"/></svg>Ref: {{ reference }}</span>{% endif %}</div>
-    <a href="ccentric-contact.html" class="hbtn">Apply Now</a>
+    <a href="{{ applyHref }}" class="hbtn">Apply Now</a>
   </header>
 
   <section class="jbody">
@@ -124,7 +128,6 @@
       <div class="jbody-copy">
 {{ content | safe }}
         <h2>How to Apply</h2>
-{% set c = collections.consultants | consultantLookup(consultant) %}
 {% if c %}        <p>Apply using the button on this page. For a confidential discussion or to request an information pack, contact {{ c.name }} on <a href="tel:{{ c.phone | noSpace }}">{{ c.phone }}</a> or at <a href="mailto:{{ c.email }}">{{ c.email }}</a>.</p>
 {% else %}        <p>For a confidential discussion or to apply, contact Ccentric via the button below or email our team directly.</p>
 {% endif %}      </div>
@@ -137,7 +140,7 @@
           <dt>Industry</dt><dd>{{ sector }}</dd>
           <dt>Reference</dt><dd>{{ reference }}</dd>
         </dl>
-        <a href="ccentric-contact.html" class="hbtn">Apply Now</a>
+        <a href="{{ applyHref }}" class="hbtn">Apply Now</a>
       </div>
     </div>
   </section>
