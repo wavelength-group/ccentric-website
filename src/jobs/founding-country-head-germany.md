@@ -1,5 +1,5 @@
 ---
-title: Founding Country Head, Germany
+title: Founding Country Head in Germany
 location: Germany
 type: Permanent
 sector: Digital Health & Life Sciences
