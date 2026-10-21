@@ -148,13 +148,13 @@ permalink: ccentric-opportunities.html
 
   <div class="filter-bar">
     <div class="filter-row">
-      <div class="filter-field"><input type="text" placeholder="Keywords — e.g. &quot;Director of Nursing&quot;"></div>
-      <div class="filter-field"><input type="text" placeholder="Location — e.g. &quot;Sydney&quot;"></div>
+      <div class="filter-field"><input type="text" id="f-keywords" placeholder="Keywords — e.g. &quot;Director of Nursing&quot;"></div>
+      <div class="filter-field"><input type="text" id="f-location" placeholder="Location — e.g. &quot;Sydney&quot;"></div>
       <div class="filter-tags">
-        <label class="filter-tag"><input type="checkbox" checked> Interim / Locum</label>
-        <label class="filter-tag"><input type="checkbox" checked> Permanent</label>
+        <label class="filter-tag"><input type="checkbox" data-type="interim" checked> Interim / Locum</label>
+        <label class="filter-tag"><input type="checkbox" data-type="permanent" checked> Permanent</label>
       </div>
-      <div class="filter-note">Showing {{ collections.jobs | length }} of {{ collections.jobs | length }} current opportunities</div>
+      <div class="filter-note" id="f-note">Showing {{ collections.jobs | length }} of {{ collections.jobs | length }} current opportunities</div>
     </div>
   </div>
 
@@ -164,7 +164,7 @@ permalink: ccentric-opportunities.html
       <span>Updated regularly — check back often</span>
     </div>
 
-{% for job in collections.jobs %}    <a class="job-card" href="ccentric-opportunity-{{ job.fileSlug }}.html">
+{% for job in collections.jobs %}    <a class="job-card" href="ccentric-opportunity-{{ job.fileSlug }}.html" data-type="{{ job.data.type | typeClass }}" data-location="{{ job.data.location }}" data-text="{{ job.data.title }} {{ job.data.teaser }} {{ job.data.sector }}">
       <div class="job-top">
         <div class="job-title">{{ job.data.title }}</div>
         <div class="job-type {{ job.data.type | typeClass }}">{{ job.data.type }}</div>
@@ -218,5 +218,34 @@ permalink: ccentric-opportunities.html
     </div>
   </footer>
 
+<script>
+(function () {
+  var kw = document.getElementById('f-keywords');
+  var loc = document.getElementById('f-location');
+  var note = document.getElementById('f-note');
+  var cks = [].slice.call(document.querySelectorAll('.filter-tag input[type=checkbox]'));
+  var cards = [].slice.call(document.querySelectorAll('.job-card'));
+  var total = cards.length;
+  function norm(s) { return (s || '').toLowerCase().trim(); }
+  function apply() {
+    var k = norm(kw.value), l = norm(loc.value);
+    var types = cks.filter(function (c) { return c.checked; })
+                   .map(function (c) { return c.getAttribute('data-type'); });
+    var shown = 0;
+    cards.forEach(function (card) {
+      var ok = true;
+      if (k && norm(card.getAttribute('data-text')).indexOf(k) === -1) ok = false;
+      if (l && norm(card.getAttribute('data-location')).indexOf(l) === -1) ok = false;
+      if (types.indexOf(card.getAttribute('data-type')) === -1) ok = false;
+      card.style.display = ok ? '' : 'none';
+      if (ok) shown++;
+    });
+    if (note) note.textContent = 'Showing ' + shown + ' of ' + total + ' current opportunities';
+  }
+  if (kw) kw.addEventListener('input', apply);
+  if (loc) loc.addEventListener('input', apply);
+  cks.forEach(function (c) { c.addEventListener('change', apply); });
+})();
+</script>
 </body>
 </html>
