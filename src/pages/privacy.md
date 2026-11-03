@@ -9,7 +9,7 @@ metaDescription: Ccentric Executive Search privacy policy and website terms of u
 
 ## Privacy Policy
 
-Ccentric Executive Search ("Ccentric", "we", "us", "our") is part of the Wavelength Group [ABN to confirm]. We are committed to protecting the privacy of the candidates, clients and website visitors we deal with, and we manage personal information in line with the Privacy Act 1988 (Cth) and the Australian Privacy Principles.
+Ccentric International Pty Ltd (ABN 89 629 975 775), trading as Ccentric Executive Search ("Ccentric", "we", "us", "our"), is part of the Wavelength Group. We are committed to protecting the privacy of the candidates, clients and website visitors we deal with, and we manage personal information in line with the Privacy Act 1988 (Cth) and the Australian Privacy Principles.
 
 **Information we collect.** We collect personal information that is reasonably necessary for our executive search and advisory work, including:
 
@@ -43,7 +43,11 @@ Ccentric may amend these terms without notice, and you should regularly check th
 
 Ccentric uses reasonable efforts to ensure the accuracy, correctness and reliability of the material on this website. However, Ccentric does not guarantee that the material on this website is error-free and does not warrant the accuracy of the material.
 
-To the extent permitted by law, Ccentric is not liable to you for any liability arising in relation to your use of this website and the material on this website (including in the case of negligence) and excludes any implied warranty.
+To the extent permitted by law, Ccentric is not liable to you for any loss or damage (including in the case of negligence) arising from or in connection with your use of, or reliance on, this website and the material on this website, and excludes any implied warranty.
+
+**Role listings.** Role listings on this website are indicative only and may be changed, filled or withdrawn without notice. A listing does not constitute an offer of employment or engagement.
+
+**Intellectual property.** The content, branding and design of this website are owned by or licensed to Ccentric and may not be reproduced, copied or used without our prior written permission.
 
 **Links to third-party websites.** Links to other websites or third parties' details are published for convenience and do not necessarily indicate any endorsement of those websites or third parties or any associated organisation, product or service.
 
