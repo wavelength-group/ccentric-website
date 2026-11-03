@@ -1,5 +1,6 @@
 ---
 title: Working with Ccentric
+heading: Your career, in experienced hands
 eyebrow: For Candidates
 intro: What to expect when you work with us, how we protect your confidentiality, and how to register your interest.
 metaDescription: How Ccentric works with candidates - our executive search process, how confidentiality is handled, what to expect at each stage, and how to register.
