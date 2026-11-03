@@ -184,7 +184,7 @@ In order to assess your suitability for positions and to assist you to find work
 
 #### 4.2 Browsing
 
-When you visit our website, we collect your usage data via cookies and other tracking technologies which do not identify you personally. This data includes pages you visit, the time spent on each page, and your IP address. It is collected for reasons including improving the user experience of our website, analysing web traffic and trends, and detecting and preventing fraud.
+When you visit our website, we collect your usage data via cookies and other tracking technologies which generally do not identify you personally. This data includes pages you visit, the time spent on each page, and your IP address. An IP address may in some circumstances be personal information, and we handle it in accordance with this Privacy Policy. It is collected for reasons including improving the user experience of our website, analysing web traffic and trends, and detecting and preventing fraud.
 
 #### 4.3 Third-Party Websites
 
