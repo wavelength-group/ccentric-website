@@ -31,16 +31,22 @@ Ccentric Executive Search ("Ccentric", "we", "us", "our") is part of the Wavelen
 
 ## Website Terms of Use
 
-**Use of this site.** This website is provided for general information about Ccentric and the roles we are engaged to fill. By using the site you agree to these terms.
+**General.** This website provides general information about Ccentric International Pty Ltd (ABN 89 629 975 775) ("Ccentric"), its services, staff members, partner individuals and partner organisations.
 
-**Intellectual property.** Unless otherwise stated, the content, branding and design of this website are owned by or licensed to Ccentric and the Wavelength Group, and may not be reproduced without permission.
+Access and use of this website is subject to these terms.
 
-**No warranty.** We take care to keep information on this site accurate and current, but we do not warrant that it is complete or error-free. Role listings and other content may change without notice.
+Ccentric may amend these terms without notice, and you should regularly check these terms so that you are aware of any amendments. Use of this website after any amendments constitutes your acceptance of the terms as amended.
 
-**Limitation of liability.** To the extent permitted by law, Ccentric is not liable for any loss arising from use of, or reliance on, this website or its content.
+**Privacy.** Ccentric collects, uses and discloses personal information in accordance with our Privacy Policy (above).
 
-**Third-party links.** This site may link to third-party websites. We are not responsible for the content or privacy practices of those sites.
+**Provision of website and limitation of liability.** This website and its content are provided 'as is' and without any express or implied warranties of any kind, except those that cannot be excluded by law.
 
-**Governing law.** These terms are governed by the laws of New South Wales, Australia.
+Ccentric uses reasonable efforts to ensure the accuracy, correctness and reliability of the material on this website. However, Ccentric does not guarantee that the material on this website is error-free and does not warrant the accuracy of the material.
+
+To the extent permitted by law, Ccentric is not liable to you for any liability arising in relation to your use of this website and the material on this website (including in the case of negligence) and excludes any implied warranty.
+
+**Links to third-party websites.** Links to other websites or third parties' details are published for convenience and do not necessarily indicate any endorsement of those websites or third parties or any associated organisation, product or service.
+
+**Governing law.** These terms are governed by the laws of New South Wales, Australia and you submit to the non-exclusive jurisdiction of courts exercising jurisdiction in New South Wales.
 
 **Changes.** We may update this Privacy Policy and these Terms from time to time. The current version will always be available on this page. Last updated: [date].
