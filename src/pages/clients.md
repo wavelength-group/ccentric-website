@@ -1,6 +1,6 @@
 ---
 title: For Clients
-heading: Leadership appointments that hold
+heading: Your partner in senior appointments
 eyebrow: For Clients
 intro: How we partner with organisations to appoint the leaders they need, with the rigour and discretion that senior search demands.
 metaDescription: How Ccentric works with client organisations - our retained executive search process, from brief to onboarding, and the aftercare that follows.
