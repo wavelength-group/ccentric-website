@@ -42,12 +42,11 @@ When we collect your personal information we:
 - Check that it is reasonably necessary for our business functions and/or activities as a business;
 - Check that it is current, complete and accurate. This will sometimes mean that we have to cross-check the information that we collect from you with third parties;
 - Record and hold your information in our database (see Clause 5 for specific information on our database). Some information may be disclosed to overseas recipients only as is reasonably necessary for our functions or activities as a recruitment agency;
-- Do not share your information with any third parties without your explicit consent to do so for each instance;
+- Do not share your CV or candidate profile with a Client without your consent, and only disclose other personal information as set out in Clause 6;
 - Retrieve your information when we need to use or disclose it for our functions and activities as a recruitment agency. At that time, we check that it is current, complete, accurate and relevant. This will sometimes mean that we have to cross-check the information that we collect from you with third parties once again, especially if some time has passed since we last checked;
 - Subject to some exceptions, permit you to access your personal information in accordance with the Australian Privacy Principles (see Clause 7 for more information on accessing your personal information);
 - Correct or attach associated statements to your personal information in accordance with the Australian Privacy Principles (see Clause 7 for more information on correction of your personal information);
-- Destroy or de-identify any financial information we hold after a period of seven (7) years, provided that it is lawful for us to do so;
-- Keep your personal information for a minimum of three (3) months, after which we may destroy or de-identify it if it no longer serves our functions or activities as a recruitment agency.
+- Retain your personal information only for as long as it is reasonably needed for our functions or activities as a recruitment agency, or as required by law, and then destroy or de-identify it (see Clause 5).
 
 **Sensitive information** is personal information that is more private in nature, including ethnicity, race, religious beliefs, sexual orientation and health information, and therefore requires a higher level of protection. Sensitive information on any individual will only be collected where it relates to a genuine occupational requirement or an inherent requirement of the job or work being considered. We will only collect sensitive information with your consent.
 
@@ -219,7 +218,7 @@ We take a range of measures to protect your personal information from misuse, in
 - Policies on laptop, mobile phone and portable storage device security;
 - Destruction of records, including by shredding and secure disposal.
 
-Personal information will be held in our database and on our systems for seven (7) years or until it is no longer needed for any purpose associated with our functions or activities as a recruitment agency, whichever is less. At that time, personal information will be destroyed or de-identified, provided that it is lawful for us to do so.
+We retain personal information in our database and on our systems only for as long as it is reasonably needed for our functions or activities as a recruitment agency, or for as long as we are required to keep it by law. Financial records are kept for seven (7) years, as required by law. When personal information is no longer needed, it will be destroyed or de-identified, provided that it is lawful for us to do so.
 
 ### 6. Disclosure of Personal Information
 
@@ -294,9 +293,7 @@ When we receive your complaint:
 - If the complaint can be resolved by procedures for access and correction, we will suggest these to you as possible solutions;
 - If we believe that your complaint may be capable of some other solution, we will suggest that solution to you, on a confidential and without prejudice basis, in our response.
 
-If the complaint cannot be resolved by the means that we propose in our response, we will suggest that you take your complaint to the Australian and New Zealand IT Contract and Recruitment Industry body (ITCRA), an external dispute resolution scheme to which we belong ([www.itcra.com](http://www.itcra.com)), or to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints).
-
-Note: the ITCRA Code and Dispute Resolution Rules do not constitute a recognised external dispute resolution scheme for the purposes of the Privacy Act 1988, but are primarily designed to regulate the good conduct of ITCRA members.
+If you are not satisfied with our response, you may take your complaint to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints).
 
 ### 9. Review of Privacy Policy
 
