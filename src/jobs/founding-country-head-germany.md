@@ -8,7 +8,7 @@ consultant: "John Bethell"
 teaser: Capital Cell is Europe's largest equity crowdfunding platform for life sciences. We have funded biotech, medtech and diagnostics companies in Spain and France by persuading private investors to put real money into science. Germany is next, and we are appointing one person to open it.
 metaDescription: life sciences
 postedDate: 2026-10-20
-published: true
+published: false
 ---
 
 #### What this job actually is
