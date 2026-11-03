@@ -59,7 +59,8 @@
   .section-head .eyebrow{font-size:13px; font-weight:800; letter-spacing:.1em; text-transform:uppercase; color:var(--pine-mid); margin-bottom:14px;}
   .section-head h2{font-weight:800; font-size:clamp(24px,3.2vw,36px); color:var(--pine); letter-spacing:-.01em;}
   .office-grid{display:grid; grid-template-columns:1fr; gap:1px; background:rgba(0,79,78,.14); max-width:1160px; margin:0 auto; border:1px solid rgba(0,79,78,.14);}
-  @media(min-width:760px){ .office-grid{grid-template-columns:repeat(3,1fr);} }
+  @media(min-width:760px){ .office-grid{grid-template-columns:repeat(2,1fr);} }
+  @media(min-width:1100px){ .office-grid{grid-template-columns:repeat(4,1fr);} }
   .office-card{background:#fff; padding:36px 30px;}
   .office-card .city{font-weight:800; font-size:19px; color:var(--pine); margin-bottom:16px;}
   .office-card .phone{display:block; font-size:15px; font-weight:700; color:var(--teal); margin-bottom:14px;}
@@ -168,7 +169,7 @@
         <a href="mailto:john@ccentricsearch.com">john@ccentricsearch.com</a>
       </div>
       <div class="quick-item">
-        <div class="label">Phone</div>
+        <div class="label">Phone (main line)</div>
         <a href="tel:+61284225300">+61 2 8422 5300</a>
       </div>
     </div>
@@ -186,13 +187,18 @@
         <address>67-77 Flinders St<br>Surry Hills NSW 2010</address>
       </div>
       <div class="office-card">
+        <div class="city">Melbourne</div>
+        <a class="phone" href="tel:+61284225300">+61 2 8422 5300</a>
+        <address>Level 3, 11-19 Bank Place<br>Melbourne VIC 3000</address>
+      </div>
+      <div class="office-card">
         <div class="city">Brisbane</div>
-        <a class="phone" href="tel:+61733302017">+61 7 3330 2017</a>
+        <a class="phone" href="tel:+61284225300">+61 2 8422 5300</a>
         <address>76-84 Brunswick St<br>Fortitude Valley QLD 4006</address>
       </div>
       <div class="office-card">
         <div class="city">Gold Coast</div>
-        <a class="phone" href="tel:+61733302017">+61 7 3330 2017</a>
+        <a class="phone" href="tel:+61284225300">+61 2 8422 5300</a>
         <address>Level 2, Robina Town Centre<br>19 Robina Town Centre Drive<br>Robina QLD 4226</address>
       </div>
     </div>
