@@ -19,7 +19,7 @@ Read this before making any change. README.md explains how the site is built.
 
 ## Jobs (`src/jobs/`)
 
-- Copy the frontmatter format of an existing job. References run in sequence (CC-1049 was the last used). Consultants must match a file in `src/consultants/`.
+- Copy the frontmatter format of an existing job. References run in sequence (CC-1050 was the last used). Consultants must match a file in `src/consultants/`.
 - Do NOT add a "How to Apply" section: it is generated from the consultant.
 - When a role is filled, set `published: false`. Do not delete the file unless asked.
 - Ask for the location and consultant if the ad does not state them. Do not guess.
