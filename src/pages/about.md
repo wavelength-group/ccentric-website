@@ -1,5 +1,6 @@
 ---
 title: About Ccentric
+heading: Specialists in healthcare leadership
 eyebrow: About
 intro: Executive search and leadership advisory for healthcare and the broader health economy, built on deep sector knowledge and long-term relationships.
 metaDescription: About Ccentric Executive Search - our history, our place within the Wavelength Group, our values, international reach and accreditations.
