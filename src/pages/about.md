@@ -18,7 +18,7 @@ Our work sits at the intersection of clinical understanding and commercial judge
 
 ## Our history
 
-Established in 2001, Ccentric has grown into one of [Australia's / the region's] recognised names in health sector executive search. [Add a short history here: origins, key milestones, and the move into leadership advisory. Confirm dates and specifics.]
+Since 2001, Ccentric has grown into one of Australia's most recognised names in health sector executive search.
 
 ## Part of the Wavelength Group
 
@@ -33,7 +33,7 @@ Ccentric is part of the Wavelength Group, a health workforce solutions group tha
 
 ## International reach and partnerships
 
-Healthcare leadership is increasingly a global market. Ccentric draws on international networks and [partnerships with executive search firms in [regions]] to extend the reach of a search where a mandate calls for it, including senior life sciences and health technology appointments across [Australia, Europe and beyond]. [Confirm the named partnerships and regions to list here.]
+Healthcare leadership is increasingly a global market. Ccentric draws on international networks to extend the reach of a search where a mandate calls for it, including senior life sciences and health technology appointments across Australia, New Zealand, Europe and beyond.
 
 ## Accreditations and panel memberships
 

@@ -42,4 +42,4 @@ Ccentric works on a retained basis, as a search partner rather than a contingent
 
 ## Beyond search
 
-Alongside executive search, we advise on leadership assessment, succession planning, market mapping and interim and fixed-term solutions. [Confirm which advisory services to feature here.]
+Alongside executive search, we advise on leadership assessment, succession planning, market mapping and interim and fixed-term solutions.

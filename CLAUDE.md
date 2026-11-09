@@ -29,8 +29,8 @@ Read this before making any change. README.md explains how the site is built.
 ## Brand facts (keep consistent everywhere)
 
 - Legal name: Ccentric International Pty Ltd (ABN 89 629 975 775), wholly owned by Wavelength International Pty Ltd ("part of the Wavelength Group"). In the footer, "Wavelength Group" links to https://www.wavepeople.com.
-- Years in business: **26+ years**. The site also says "Since 2001" (this conflict is unresolved, so flag it rather than change it).
-- Stats row: 26+ YEARS · 55% ♀ APPOINTMENTS · 800+ PLACEMENTS · 10 COUNTRIES.
+- Years in business: "Since 2001". In running text say "over two decades"; in stats and figures use **25+ years**.
+- Stats row: 25+ YEARS · 55% ♀ APPOINTMENTS · 800+ PLACEMENTS · 10 COUNTRIES.
 - Sector list, always in full and in this order: healthcare, academia, digital health, life sciences, aged care, not-for-profit and private equity.
 - Main phone line: +61 2 8422 5300 (Sydney). It is used for all offices.
 - Offices: Sydney (67-77 Flinders St, Surry Hills NSW 2010), Melbourne (Level 3, 11-19 Bank Place, Melbourne VIC 3000), Brisbane (76-84 Brunswick St, Fortitude Valley QLD 4006), Gold Coast (Level 2, Robina Town Centre, 19 Robina Town Centre Drive, Robina QLD 4226).
