@@ -19,7 +19,7 @@ Read this before making any change. README.md explains how the site is built.
 
 ## Jobs (`src/jobs/`)
 
-- Copy the frontmatter format of an existing job. References run in sequence (CC-1051 was the last used). Consultants must match a file in `src/consultants/`.
+- Copy the frontmatter format of an existing job. References run in sequence (CC-1052 was the last used). Consultants must match a file in `src/consultants/`.
 - Do NOT add a "How to Apply" section: it is generated from the consultant.
 - Apply Now buttons email the role's consultant and CC alyssa@ccentricsearch.com (set in `src/_includes/job.njk`).
 - When a role is filled, set `published: false`. Do not delete the file unless asked.
