@@ -1,12 +1,12 @@
 ---
 title: Clinical Director Obstetrics & Gynaecology, Bairnsdale Regional Health Service & Latrobe Regional Health
-location: "Gippsland, VIC"
+location: "Bairnsdale & Traralgon, VIC"
 type: Permanent
 sector: Healthcare
 reference: CC-1053
 consultant: "Kim Gillespie"
 teaser: "A newly established dual-site role combining strategic clinical leadership of maternity and women's health services with an active consultant practice across Gippsland. FRANZCOG required."
-metaDescription: "Clinical Director Obstetrics & Gynaecology, Bairnsdale Regional Health Service and Latrobe Regional Health, Gippsland VIC. Dual-site leadership role with consultant practice. FRANZCOG required. Apply via Ccentric."
+metaDescription: "Clinical Director Obstetrics & Gynaecology, Bairnsdale Regional Health Service and Latrobe Regional Health, Bairnsdale & Traralgon VIC. Dual-site leadership role with consultant practice. FRANZCOG required. Apply via Ccentric."
 postedDate: 2026-11-10
 published: true
 ---

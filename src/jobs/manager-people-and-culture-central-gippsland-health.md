@@ -1,12 +1,12 @@
 ---
 title: Manager People & Culture, Central Gippsland Health
-location: "Wellington Shire, VIC"
+location: "Sale, VIC"
 type: Permanent
 sector: Healthcare
 reference: CC-1051
 consultant: "Kim Gillespie"
 teaser: "Lead the next chapter of People & Culture transformation at a major regional health and aged care provider. 0.8 FTE, HS7 classification."
-metaDescription: "Manager People & Culture, Central Gippsland Health, Wellington Shire VIC. 0.8 FTE, HS7. Lead a newly transformed People & Culture function at a 1,200-staff regional health service. Apply via Ccentric."
+metaDescription: "Manager People & Culture, Central Gippsland Health, Sale VIC. 0.8 FTE, HS7. Lead a newly transformed People & Culture function at a 1,200-staff regional health service. Apply via Ccentric."
 postedDate: 2026-11-10
 published: true
 ---
