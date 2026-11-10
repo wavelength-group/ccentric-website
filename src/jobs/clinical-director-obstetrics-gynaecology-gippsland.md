@@ -1,5 +1,5 @@
 ---
-title: Clinical Director Obstetrics & Gynaecology, Bairnsdale Regional Health Service & Latrobe Regional Health
+title: Clinical Director Obstetrics & Gynaecology, Gippsland
 location: "Bairnsdale & Traralgon, VIC"
 type: Permanent
 sector: Healthcare
