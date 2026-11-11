@@ -9,295 +9,183 @@ metaDescription: Ccentric Executive Search privacy policy and website terms of u
 
 ### 1. Introduction
 
-Ccentric International Pty Ltd (ABN 89 629 975 775) ("Ccentric", "we", "us", "our") takes seriously its commitment to preserve the privacy of the personal information that we collect.
+Ccentric International Pty Ltd (ABN 89 629 975 775) ("Ccentric", "we", "us", "our") takes seriously its commitment to preserve the privacy of the personal information we collect. Ccentric is wholly owned by Wavelength International Pty Ltd and is part of the Wavelength Group. This policy follows the Wavelength Group Privacy Policy and applies to Ccentric's executive search and leadership advisory work.
 
-We manage personal information in accordance with our Privacy Policy, the Privacy Act 1988 (Cth), the Australian Privacy Principles, and any other relevant legislation that applies to Ccentric's collection, use, disclosure and storage of personal information.
+We manage personal information in accordance with the Privacy Act 1988 (Cth), the Australian Privacy Principles, the Health Records and Information Privacy Act 2002 (NSW) and other legislation that applies to us.
 
-We will only collect information that is reasonably necessary for the proper performance of our activities or functions as a recruitment agency. We do not collect personal information just because we think it could be useful at some future stage if we have no present need for it. We do not collect, use or disclose personal information for unlawful purposes, including discrimination.
+We only collect information that is reasonably necessary for our functions and activities as an executive search and recruitment firm. We do not collect personal information just because it could be useful at some future stage. We do not collect, use or disclose personal information for unlawful purposes, including discrimination.
 
-We acknowledge that an individual has the right to not identify themselves, or to use a pseudonym, when dealing with us. However, the nature of the recruitment services which Ccentric provides means that in most cases it will not be possible to preserve anonymity and pseudonymity beyond an initial enquiry.
+You have the right not to identify yourself, or to use a pseudonym, when dealing with us. However, the nature of executive search means that in most cases this will not be practicable beyond an initial enquiry.
 
-We will not use government related identifiers for the purpose of identifying you unless required by law.
+We will not use government-related identifiers to identify you unless required by law.
 
-Ccentric is wholly owned by Wavelength International Pty Ltd. The privacy policy of Wavelength International can be found at [wave.com.au/privacy-policy](https://wave.com.au/privacy-policy/). In the course of any locum or interim work, your details may be provided to Wavelength for the purpose of credentialing and checking other legal requirements.
+In the course of any interim work, your details may be provided to Wavelength International for credentialing and other legal checks. Wavelength's privacy policy is at [wave.com.au/privacy-policy](https://wave.com.au/privacy-policy/).
 
-If you have any questions, wish to request a correction, or to make a complaint, please contact our Privacy Officer by email at [privacy@ccentric.com.au](mailto:privacy@ccentric.com.au) or by phone on [+61 2 8422 5300](tel:+61284225300).
+We aim for all collection and use of personal information to be fair, reasonable and proportionate, in line with guidance from the Office of the Australian Information Commissioner (OAIC). We review our practices regularly to stay aligned with changes to the Privacy Act and the Australian Privacy Principles.
 
-#### 1.1 Changes to Privacy Policy
+If you have any questions, please contact our Privacy Officer at [privacy@ccentricsearch.com](mailto:privacy@ccentricsearch.com) or on [+61 2 8422 5300](tel:+61284225300).
 
-This Privacy Policy may change from time to time due to changes in legislation, our activities, technological advances and other factors. For this reason we recommend reviewing this Policy each time you engage with Ccentric in any way.
+### 2. Use of technology and automated tools
 
-#### 1.2 Consent
+We use limited automated tools to help our consultants review applications and identify potentially relevant roles. These tools help organise information; they do not make decisions. All recruitment decisions, including whether a candidate is shortlisted or presented to a client, are made by people.
 
-By accessing Ccentric's websites and/or submitting your personal information to Ccentric through any means, you consent to the use of your information as set out in this Privacy Policy. Please note, if you do not consent to provide information, or the information provided is insufficient or inaccurate, we may be limited in our ability to provide our services as a recruitment agency to you.
+The tools use only the personal information needed for these tasks. Candidate information is never used to train or update artificial intelligence systems.
 
-### 2. Information Collection
+### 3. Information we collect and hold
 
-It is necessary for our functions or activities as a recruitment agency to collect personal information about you.
+We collect the personal information reasonably necessary for our work. What we collect depends on whether you are:
 
-Personal information is information that can render an individual reasonably identifiable and includes name, phone number, email address, social media profile, employment history and similar details. Ccentric will only collect and store personal information where reasonably necessary for the proper performance of our functions and activities as a recruitment agency, and this information is managed in accordance with this Privacy Policy.
+- **A Candidate:** someone seeking a role or career advice through us, or whom we have identified as possibly interested in an opportunity.
+- **A Client:** someone who has engaged, or may engage, our services.
+- **A Referee:** someone from whom we seek facts or opinions about a candidate's suitability, nominated by the candidate, a client or us.
 
-When we collect your personal information we:
+Where you fit more than one category, all relevant categories apply.
 
-- Check that it is reasonably necessary for our business functions and/or activities as a business;
-- Check that it is current, complete and accurate. This will sometimes mean that we have to cross-check the information that we collect from you with third parties;
-- Record and hold your information in our database (see Clause 5 for specific information on our database). Some information may be disclosed to overseas recipients only as is reasonably necessary for our functions or activities as a recruitment agency;
-- Do not share your CV or candidate profile with a Client without your consent, and only disclose other personal information as set out in Clause 6;
-- Retrieve your information when we need to use or disclose it for our functions and activities as a recruitment agency. At that time, we check that it is current, complete, accurate and relevant. This will sometimes mean that we have to cross-check the information that we collect from you with third parties once again, especially if some time has passed since we last checked;
-- Subject to some exceptions, permit you to access your personal information in accordance with the Australian Privacy Principles (see Clause 7 for more information on accessing your personal information);
-- Correct or attach associated statements to your personal information in accordance with the Australian Privacy Principles (see Clause 7 for more information on correction of your personal information);
-- Retain your personal information only for as long as it is reasonably needed for our functions or activities as a recruitment agency, or as required by law, and then destroy or de-identify it (see Clause 5).
+**Candidates.** Typically:
 
-**Sensitive information** is personal information that is more private in nature, including ethnicity, race, religious beliefs, sexual orientation and health information, and therefore requires a higher level of protection. Sensitive information on any individual will only be collected where it relates to a genuine occupational requirement or an inherent requirement of the job or work being considered. We will only collect sensitive information with your consent.
+- name, address, contact details, date of birth and gender;
+- CV, employment history, qualifications, professional registrations and career preferences;
+- information about skills, experience, leadership style and work performance, generally collected through interviews and reference checks;
+- results of psychometric, competency or other assessments you complete;
+- results of background, qualification, registration and criminal history checks you have consented to;
+- right-to-work and immigration information where relevant to a role;
+- remuneration details and expectations.
 
-**Unsolicited information** is any personal information that we receive without asking for it. We will take reasonable steps to ensure that any unsolicited information we receive from you or about you is purged from our systems, provided it is not required for the proper performance of our functions and activities as a recruitment agency.
+**Clients.** Typically: contact details and position; hiring authority; information about the organisation's structure, strategy and leadership requirements; relationship information; and billing and payment details.
 
-#### 2.1 Kinds of Information We Collect and Hold
+**Referees.** Typically: your name, position and contact details; your relationship to the candidate; your opinions on the candidate's character, performance and working environment; and facts supporting those opinions.
 
-The type of personal information that we collect and hold is information that is reasonably necessary for the proper performance of our functions and activities as a recruitment agency, and is likely to differ depending on whether you are:
+**Sensitive information** (such as health information, criminal history, or racial or ethnic origin) is collected only with your consent, and only where it relates to a genuine or inherent requirement of the role.
 
-- A **Candidate**, i.e. a person who is seeking a placement or work through us or career advice from us, or whom we have identified as a person who might be receptive to hearing about potential job opportunities from us;
-- A **Client**, i.e. a person other than a Candidate who has acquired, or is looking to acquire, our services, or whom we have identified as someone who might be interested in acquiring our services;
-- A **Referee**, i.e. a person from whom we have sought facts or opinions to assess the suitability of a Candidate's qualifications, skills, character and previous work performance, and who may be a Referee nominated by a Candidate, a Client or by us.
+**Unsolicited information.** If we receive personal information we did not ask for, we take reasonable steps to remove it from our systems unless it is needed for our work.
 
-Where an individual fits into more than one category above, all relevant categories will apply.
+**Identity documents.** We may ask to sight proof of identity, such as a passport, visa or driver licence, where needed for a role. We will only do so where necessary, and we will tell you why.
 
-**2.1.1 Candidates.** The personal information we typically collect and maintain about Candidates may include:
+### 4. How we collect information
 
-- Personal details including name, address, contact details including phone number and email address, and gender;
-- Employment information including organisation, position and contact details;
-- Information submitted and obtained from you directly (e.g. CV, job application), as well as from other sources including Referees or Clients, in connection with applications for work;
-- Information about personal attributes, professional responsibilities, work performance, skills, qualifications and experience, generally collected through interviews and reference checks;
-- Documentation relating to employment history, proof of identity, immigration status, qualifications and registration;
-- Results of various tests, appraisals and background checks undertaken and/or consented to by you.
+We generally collect personal information directly from you: when you apply for a role, send us your CV, speak with a consultant, or contact us through our website, by email or by phone.
 
-**2.1.2 Clients.** The personal information we typically collect and maintain about Clients may include:
+**Candidates.** We also collect information when:
 
-- Personal details including name, position, business address, contact details including phone number and email address, and gender;
-- Client relationship information disclosed during meetings;
-- Organisational information including structure and strategy;
-- Banking, payment and financial details.
+- a referee provides a reference about you;
+- we make enquiries of former employers, colleagues, professional associations or registration bodies;
+- we receive the results of psychometric, competency or medical assessments;
+- we receive feedback from clients about you, positive or negative;
+- we receive the results of background, qualification or registration checks;
+- we receive information about any insurance investigation, litigation, registration or professional disciplinary matter, criminal matter, inquest or inquiry in which you are involved;
+- you give us any other information about yourself.
 
-**2.1.3 Referees.** The personal information we typically collect and hold about Referees is that which is necessary to help make determinations about the suitability of one of our Candidates for a particular job, and may include:
+**Clients.** When you provide it to us for business purposes, and through our communications with you.
 
-- Your name, contact details and position within the organisation;
-- Your relationship to the Candidate for whom you are providing a reference, including previous employment details if they differ from your current employment;
-- All information you provide as part of a reference, including opinions regarding the Candidate's character, their work responsibilities, performance and the working environment;
-- Facts or evidence in support of those opinions.
+**Referees.** When you provide a reference, and when we check information about a candidate with you.
 
-#### 2.2 Photos, Images and ID Documents
+**Public sources.** We may collect information from publicly available sources, including professional directories, publications, organisation websites, LinkedIn and other social media, regulators' registers such as AHPRA, and news media. We do so only as reasonably necessary for our work, and we manage that information under this policy.
 
-Ccentric will not request sensitive documents from you that may have a photographic image of yourself, such as copies of your passport, visa and/or driver licence. We may request to view such documents via an online meeting or video call, and we will only request to sight these documents where it is necessary for the proper performance of our functions and activities as a recruitment agency.
+### 5. How we use information
 
-Sometimes your communications with us may include images of yourself, such as within your CV. As such, please ensure you read Clause 4 for further information on electronic transactions.
+**Candidates:** assessing your suitability for roles; presenting you to clients with your consent; keeping you informed about relevant opportunities; managing the search process; statutory compliance; risk management; and, where permitted, telling you about our services.
 
-#### 2.3 How We Collect Information
+**Clients:** managing our relationship and engagements; delivering search and advisory services; billing; risk management; and, where permitted, telling you about our services.
 
-Personal information is generally collected directly from you when you provide it to us for recruitment or recruitment-related purposes, in particular in job applications.
+**Referees:** confirming your identity and authority to give a reference; assessing a candidate's suitability; and risk management.
 
-We may also collect personal information about you from a range of publicly available sources including newspapers, journals, directories, websites and social media sites. Such publicly available information is sourced for inclusion in our records only as is reasonably necessary for the proper performance of our functions and activities as a recruitment agency, and this information is managed in accordance with this Privacy Policy.
+Where a reference is given or received electronically, we may use limited technical information (such as IP addresses, timestamps or system identifiers) where reasonably necessary to confirm the reference is genuine.
 
-We may also collect personal information about you through various electronic communications with you, as well as through the technology that is used to support this electronic communication (see Clause 4 for more information on electronic transactions).
+### 6. Direct marketing
 
-In addition to the above, the other means by which we collect personal information are likely to differ depending on whether you are a Candidate, a Client or a Referee. Where an individual fits into more than one category, all relevant categories will apply.
+We may use your personal information to send you information about our services and opportunities by email, phone, SMS or print. Where practicable we will ask for your consent first. Every marketing message gives you a clear way to unsubscribe, and we will update our records when you do.
 
-**2.3.1 Candidates.** In addition to publicly available information and information collected through electronic communication, personal information about you will generally be collected directly from you when you provide it to us for recruitment or recruitment-related purposes, including when:
+We may use email platforms to send these messages; they receive only the contact details needed to do so. We may also use publicly available contact information for direct marketing. When we do, we will take steps within five days to verify it and give you the chance to opt out.
 
-- You provide information to us by any means, including via our website, email, phone or letter;
-- One of your Referees provides us with a reference about you;
-- We receive feedback about your professional performance from Clients or related parties, whether positive or negative;
-- We receive results of any competency, psychometric or medical test you are required to complete as part of an application;
-- We receive results of any background checks or verification checks for qualifications and professional memberships;
-- We receive any information about any insurance investigation, litigation, registration or professional disciplinary matter, criminal matter, inquest or inquiry in which you are involved;
-- You provide us with any additional information about you.
+If we would like to use a testimonial or opinion you have given us in marketing material, we will ask your permission first.
 
-**2.3.2 Clients.** In addition to publicly available information and information collected through electronic communication, personal information will generally be collected directly from you when you provide it to us for business or business-related social purposes, in the course of your communications with us.
+To stop receiving marketing from us, unsubscribe from any message or contact your consultant or our Privacy Officer at [privacy@ccentricsearch.com](mailto:privacy@ccentricsearch.com).
 
-**2.3.3 Referees.** In addition to publicly available information and information collected through electronic communication, personal information about you may be collected when you provide it to us in the course of our obtaining Candidate references from you, and when we are checking information that we obtain from you about Candidates.
+### 7. Website, email and other technology
 
-#### 2.4 Purpose and Use
+This section covers information collected through our website, www.ccentricsearch.com, and through the technology we use to communicate with you. There are risks in using the internet, and you should take appropriate steps to protect your information. The OAIC's guidance on [online privacy](https://www.oaic.gov.au/privacy/your-privacy-rights/social-media-and-online-privacy) may help. If you would rather not contact us online, call us on [+61 2 8422 5300](tel:+61284225300).
 
-The purposes for which we collect, hold, use and disclose your personal information are those purposes that are reasonably necessary for the proper performance of our functions and activities as a recruitment agency, and are likely to differ depending on whether you are a Candidate, a Client or a Referee. Where an individual fits into more than one category, all relevant categories will apply.
+**Information you give us online.** For example when you email us, send a CV, apply for a role, ask to receive job alerts, or interact with us on LinkedIn or other social platforms.
 
-The following sections are also relevant to our use and disclosure of your personal information:
+**Social media and online searches.** To assess suitability for roles, we may review professional networking and social media sites, search engines, organisation websites, and regulatory, immigration and registration sites such as AHPRA.
 
-- Our policy on direct marketing (see Clause 3 below);
-- Related purpose disclosures and cross-border disclosures (see Clause 6 below).
+**Browsing and cookies.** When you visit our website we collect your IP address, browser and operating system, the pages you visit and links you click, and the time and date of your visit, using cookies and similar technologies. We use this to improve the website, analyse traffic and detect fraud, with Google Analytics. An IP address may in some circumstances be personal information, and we handle it under this policy. We do not otherwise identify individual visitors, except where a law enforcement agency exercises a warrant to inspect server logs. You can block or delete cookies in your browser settings.
 
-**2.4.1 Candidates.** Personal information that we collect, hold, use and disclose about a Candidate is typically used for the following purposes:
+**Emails, calls and messages.** Our systems log emails, calls and SMS messages sent and received, and our email platforms record delivery, opens and clicks. Your contact details are used only for the purpose you gave them, or to send you information you may be interested in unless you have opted out.
 
-- Recruitment functions, including assessment of suitability for placement into particular roles;
-- Provision of information to you via various communication channels, including advice regarding positions that may be of potential interest to you;
-- Statistical purposes and statutory compliance requirements;
-- Staff management and training;
-- Audits and risk management;
-- Communication via various channels to market our services to you, only where this is permitted and with instructions to opt out;
-- Assessing and improving our various business services;
-- Requesting your participation in surveys.
+**Video and phone calls** are recorded only with your consent, and we will tell you the purpose first.
 
-**2.4.2 Clients.** Personal information that we collect, hold, use and disclose about a Client is typically used for the following purposes:
+**Third-party websites.** Our website links to other sites. We are not responsible for their privacy practices; please read their policies before giving them personal information.
 
-- Client and business relationship management;
-- Recruitment functions;
-- Statistical purposes and statutory compliance requirements;
-- Staff management and training;
-- Audits and risk management;
-- Communication via various channels to market our services to you, only where this is permitted and with an option to opt out;
-- Assessing and improving our various business services;
-- Requesting your participation in surveys.
+### 8. How information is held, secured and disposed of
 
-**2.4.3 Referees.** Personal information that we collect, hold, use and disclose about Referees is typically used for:
+We hold personal information in our cloud-based applicant tracking and client relationship system (ATS/CRM), on our network drives and in our email systems. All require approved login credentials, and only authorised Ccentric staff can access them, on a need-to-know basis.
 
-- Confirmation of identity and authority to provide references;
-- Candidate suitability assessment;
-- Recruitment functions;
-- Audits and risk management;
-- Staff management and training.
+Our security measures include:
 
-### 3. Direct Marketing
+- staff training in privacy and cyber security;
+- need-to-know access and authorisation procedures;
+- multi-factor authentication and password requirements;
+- secure network connections;
+- restrictions on downloading, copying or transferring files outside approved systems;
+- audit logs of user activity, and prompt removal of access when it is no longer needed;
+- signed confidentiality agreements;
+- policies on laptop, mobile phone and portable storage security;
+- secure shredding of all paper records.
 
-From time to time we may send email, text message or print communications to you as part of various direct marketing campaigns. We may use the personal information we hold to include you in these direct marketing campaigns, unless you have specifically requested us not to do so. We generally market our services and job opportunities to Clients and Candidates using email, phone and print material.
+We keep personal information only for as long as it is reasonably needed for our work, or as long as we are required to by law. Financial records are kept for seven (7) years. When information is no longer needed, we destroy or de-identify it, provided it is lawful to do so.
 
-Where it is practicable to do so, we will obtain your consent. Where it is not practicable to obtain consent and you receive marketing-related communications from us, you will have a clear option to unsubscribe from distribution lists for similar or all future direct marketing campaigns. Upon receipt of this request, your marketing preferences will be updated on our systems.
+### 9. Disclosure of personal information
 
-We value your privacy and are committed to complying with all applicable anti-spam laws. If you feel we have fallen short of this commitment, please let us know by contacting us at [privacy@ccentric.com.au](mailto:privacy@ccentric.com.au) so we can address and resolve the issue promptly.
+We disclose personal information only for the purposes for which it was collected, for related purposes where lawfully permitted, or where we are legally required to. **We never share your CV or candidate profile with a client without your consent.**
 
-### 4. Electronic Transactions
+Disclosure will usually be to:
 
-This section explains how we handle personal information collected from our website, [www.ccentric.com.au](https://www.ccentric.com.au), and by other technology in the course of electronic communication and transactions.
+- our clients, as part of a search;
+- referees, for suitability and screening purposes;
+- Wavelength Group entities;
+- service providers who support our work: software and IT providers, legal and professional advisers, background-checking and assessment providers, marketing suppliers and data-cleansing partners.
 
-Sometimes we collect personal information that individuals choose to give us via online forms or by email, for example when individuals:
+We require everyone who handles personal information on our behalf to comply with our privacy, confidentiality and security requirements. Where a reference was given electronically, we may share limited technical information, such as an IP address, where reasonably necessary to verify the reference or prevent fraud.
 
-- Ask to be on an email list;
-- Register as a site user by applying for roles on our job page;
-- Make a written online enquiry or email us via our website;
-- Submit a resume by email or through our website;
-- Follow, interact and converse via social networking platforms such as Facebook and LinkedIn.
+**Cross-border disclosures.** Some personal information may be disclosed overseas, or in the case of health information, outside New South Wales. So far as practicable, the likely recipients are:
 
-It is important that you understand that there are risks associated with use of the internet, and you should take all appropriate steps to protect your personal information. You may find the OAIC's resource on [social media and online privacy](https://www.oaic.gov.au/privacy/your-privacy-rights/social-media-and-online-privacy) helpful.
+| Country | Information | Likely recipients |
+| --- | --- | --- |
+| New Zealand, Singapore | CVs, qualifications and background check results | Clients based in those countries, and in New Zealand, the Medical Council and immigration advisers where relevant |
+| Other countries | Information needed for a specific search | Clients or partner search firms located there, where a search requires it |
+| Other Australian states and territories | Health information | Clients outside NSW, where required for a role |
 
-Please contact us on [+61 2 8422 5300](tel:+61284225300) if you have concerns about making contact via the internet or email.
+We take reasonable steps to ensure overseas recipients are bound to protect your information consistently with the Australian Privacy Principles.
 
-#### 4.1 Social Media and Online Searches
+### 10. Access, correction and deletion
 
-In order to assess your suitability for positions and to assist you to find work, we will need to collect, use and disclose personal information about you. We may conduct online due diligence checks to assess your suitability as a Candidate using internet search engines such as Google, social media sites such as Facebook, Instagram and X (formerly Twitter), public and private organisation websites, regulatory and immigration sites, and medical registration boards such as AHPRA.
+You have the right to access, correct and ask us to delete your personal information under the Australian Privacy Principles and, where it applies, the EU General Data Protection Regulation. To make a request, contact our Privacy Officer at [privacy@ccentricsearch.com](mailto:privacy@ccentricsearch.com) or on [+61 2 8422 5300](tel:+61284225300). You will need to verify your identity.
 
-#### 4.2 Browsing
+**Access.** Subject to exceptions in privacy law, you can access the personal information we hold about you. The main exception is confidential evaluative material, such as references given to us in confidence, or information whose release would affect someone else's privacy. We may charge a moderate, non-excessive fee for providing access and will discuss it with you first. We will generally respond within five (5) working days. If we refuse access, we will tell you why in writing and explain how to complain.
 
-When you visit our website, we collect your usage data via cookies and other tracking technologies which generally do not identify you personally. This data includes pages you visit, the time spent on each page, and your IP address. An IP address may in some circumstances be personal information, and we handle it in accordance with this Privacy Policy. It is collected for reasons including improving the user experience of our website, analysing web traffic and trends, and detecting and preventing fraud.
+**Correction.** We take reasonable steps to keep your information accurate and up to date, and we rely on you to tell us about changes. If information we hold is inaccurate, out of date, incomplete, irrelevant or misleading, ask us to correct it. There is no charge. If we have disclosed the information to others, you can ask us to notify them. We will generally respond within five (5) working days. If we do not agree to a correction, we will tell you why in writing, and you can ask us to attach a statement that you contest the information.
 
-#### 4.3 Third-Party Websites
+**Deletion.** You can ask us to delete your personal information. We may need to keep some information to meet record-keeping or legal obligations, and we will tell you if so.
 
-Our website may contain links to third-party websites. We are not responsible for the privacy practices of those third-party websites and recommend you review the privacy policies of such websites before providing any personal information.
+### 11. Complaints
 
-#### 4.4 Cookies
+If you believe we have interfered with your privacy, please complain to our Privacy Officer in writing at [privacy@ccentricsearch.com](mailto:privacy@ccentricsearch.com), or by post to the Privacy Officer, Ccentric, 67-77 Flinders Street, Surry Hills NSW 2010.
 
-Cookies are uniquely numbered identification tags which are placed on your browser. We use cookies to monitor usage of our website, including which pages are viewed and for how long, and to generate statistics used to improve our website experience. By themselves, cookies do not identify you personally, but they may link back to a database record about you. You can set your browser not to accept cookies, or you can delete cookies from your browser at the end of a session.
+When we receive your complaint, we will:
 
-#### 4.5 Cloud Computing Services
+- confirm your identity, or that of the person you have authorised;
+- acknowledge it in writing and confirm how we will handle it;
+- ask for any further detail we need;
+- consider it, and make inquiries of people who can help us establish what happened;
+- respond within a reasonable time, usually 30 days, and tell you if we need longer;
+- suggest access or correction where that would resolve it, or another solution on a confidential, without-prejudice basis.
 
-We take reasonable steps to ensure that our cloud computing service providers' terms of service recognise that we are bound by obligations to protect the privacy of your personal information, and that they will not do anything that would cause us to breach those obligations.
+If you are not satisfied with our response, you can take your complaint to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints).
 
-#### 4.6 Mobile Access
+### 12. Changes to this policy
 
-Our staff use laptops, tablets, phones and other portable electronic devices that allow them to access, retrieve and store your personal information. This information is used for recruitment purposes and will only be used or disclosed for the purpose for which you have provided it.
-
-### 5. How Your Personal Information Is Held and Disposed Of
-
-When your personal information is collected, it will be held in our server-based recruiting database, on our website and on our network drive, all of which restrict user access without the use of approved login credentials, and are only accessed as is reasonably necessary for the proper performance of our functions and activities as a recruitment agency.
-
-We use a recruiting database to log and record recruitment operations. This recruiting database is hosted on our cloud server, which allows disclosure to cross-border recipients only as is reasonable for the proper performance of our functions and activities as a recruitment agency, or as outlined in Clause 6 below. The database will contain personal details and documentation you have provided to us, which will only be used or disclosed for the purpose for which you have provided it.
-
-Printed information will be scanned and held electronically as above, with paper copies then shredded or disposed of through secure bins collected by an authorised document destruction organisation.
-
-We take a range of measures to protect your personal information from misuse, interference, loss, unauthorised access, modification or disclosure. These include:
-
-- Staff training;
-- Need-to-know and authorisation procedures;
-- Password protection;
-- Policies on laptop, mobile phone and portable storage device security;
-- Destruction of records, including by shredding and secure disposal.
-
-We retain personal information in our database and on our systems only for as long as it is reasonably needed for our functions or activities as a recruitment agency, or for as long as we are required to keep it by law. Financial records are kept for seven (7) years, as required by law. When personal information is no longer needed, it will be destroyed or de-identified, provided that it is lawful for us to do so.
-
-### 6. Disclosure of Personal Information
-
-We may disclose your personal information for any of the purposes for which it is primarily held, being our functions and activities as a recruitment agency, for a related purpose where lawfully permitted, or where we are under a legal duty to do so.
-
-Disclosure will usually be:
-
-- Internally and to our related entities;
-- To our Clients or Candidates;
-- To Referees for suitability and screening purposes.
-
-#### 6.1 Related Purpose Disclosures
-
-From time to time we outsource a number of services to contracted service providers (CSPs) who may see some of your personal information. Typically, our CSPs would include:
-
-- Software solutions providers and IT contractors (e.g. database and marketing software);
-- Legal and other professional advisers;
-- Background checking and screening agents;
-- Marketing suppliers;
-- Data cleansing partners.
-
-We take reasonable steps to ensure that our CSPs' terms of service recognise that we are bound by obligations to protect the privacy of your personal information, and that they will not do anything that would cause us to breach those obligations.
-
-#### 6.2 Cross-Border Disclosures
-
-Some of your personal information may be disclosed to overseas recipients. This would generally only occur if reasonably necessary for the proper performance of our functions and activities as a recruitment agency, for example where a Client is located outside Australia, or where a third-party provider for a related purpose is located outside Australia.
-
-We take reasonable steps to ensure that terms of service with overseas recipients of personal information recognise that we are bound by obligations to protect the privacy of your personal information, and that they will not do anything that would cause us to breach those obligations.
-
-The countries to which your data may be transferred are not restricted, and may include countries within the Americas and Europe, the United Kingdom, Ireland, China, India, Singapore, New Zealand, or such other countries as advised from time to time.
-
-### 7. Access, Correction and Deletion of Personal Information
-
-#### 7.1 Access
-
-Subject to some exceptions that are set out in privacy law, you can gain access to the personal information that we hold about you. Important exceptions include:
-
-- Where access impacts on the privacy of others, e.g. where information has been provided with the expectation of confidentiality;
-- Where the request for access is frivolous or vexatious;
-- Where there are existing or anticipated legal proceedings; or
-- Where such access can be denied under law or by a law enforcement agency.
-
-In these circumstances we will provide a written notice that sets out the reasons for the refusal and the mechanisms available to complain about the refusal. We will generally respond to your request for access within 14 days of your initial request.
-
-If you wish to obtain access to your personal information, you should contact our Privacy Officer at [privacy@ccentric.com.au](mailto:privacy@ccentric.com.au). You will need to be in a position to verify your identity, and we may impose a moderate charge for providing the information.
-
-#### 7.2 Correction
-
-If you find that personal information that we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, you can ask us to correct it by contacting our Privacy Officer. We will take such steps as are reasonable in the circumstances to correct that information to ensure that, having regard to the purpose for which it is held, the information is accurate, up to date, complete, relevant and not misleading.
-
-If we have disclosed personal information about you that is inaccurate, out of date, incomplete, irrelevant or misleading, you can ask us to notify the third parties to whom we made the disclosure, and we will take such steps (if any) as are reasonable in the circumstances to give that notification, unless it is impracticable or unlawful to do so.
-
-There is no charge to you for asking us to correct your personal information. Please note that it may take up to 5 days for the relevant information to be corrected in our system.
-
-If we are not in a position to correct the information, or do not agree that the information should be changed, we will provide you with written notice of that fact, including the reasons for the refusal. You may request that a statement be associated with your personal information, indicating that you contest the accuracy or validity of the information on file. You may raise a formal complaint to us in writing, as per the complaints procedure below.
-
-#### 7.3 Deletion
-
-You have the right to request deletion of your personal information. Please note, however, that we may need to retain certain information for record-keeping purposes, to complete transactions or to comply with our legal obligations. You can request deletion by contacting our Privacy Officer.
-
-### 8. Complaints
-
-You have a right to complain about our handling of your personal information if you believe that we have interfered with your privacy. If you are making a complaint about our handling of your personal information, it should first be made to us in writing via our Privacy Officer, who can be contacted at [privacy@ccentric.com.au](mailto:privacy@ccentric.com.au).
-
-When we receive your complaint:
-
-- We will take steps to confirm the authenticity of the complaint and the contact details provided to us, to ensure that we are responding to you or to a person whom you have authorised to receive information about your complaint;
-- Upon confirmation, we will write to you to acknowledge receipt and to confirm that we are handling your complaint in accordance with our policy;
-- We may ask for clarification of certain aspects of the complaint and for further detail;
-- We will consider the complaint and may make inquiries of people who can assist us to establish what has happened and why;
-- We will require a reasonable time (usually 30 days) to respond. If a response cannot be provided within this time, you will be notified of an updated timeline;
-- If the complaint can be resolved by procedures for access and correction, we will suggest these to you as possible solutions;
-- If we believe that your complaint may be capable of some other solution, we will suggest that solution to you, on a confidential and without prejudice basis, in our response.
-
-If you are not satisfied with our response, you may take your complaint to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints).
-
-### 9. Review of Privacy Policy
-
-Ccentric is committed to keeping our Privacy Policy up to date and publishing these updates on all mediums. As such, this policy may change over time in light of changes to privacy laws, technology and business practice. If you regularly conduct transactions with us that involve the collection of your personal information, or regularly use our website, it is important that you check this policy regularly to ensure that you are aware of the extent of any consent, authorisation or permission you might give.
+This policy may change in light of changes to privacy law, technology and our business practices. The current version is always on this page. If you use our website regularly or deal with us often, please check it from time to time.
 
 ## Website Terms of Use
 
@@ -323,4 +211,4 @@ To the extent permitted by law, Ccentric is not liable to you for any loss or da
 
 **Governing law.** These terms are governed by the laws of New South Wales, Australia and you submit to the non-exclusive jurisdiction of courts exercising jurisdiction in New South Wales.
 
-**Changes.** We may update this Privacy Policy and these Terms from time to time. The current version will always be available on this page. Last updated: 3 November 2026.
+**Changes.** We may update this Privacy Policy and these Terms from time to time. The current version will always be available on this page. Last updated: 12 November 2026.
