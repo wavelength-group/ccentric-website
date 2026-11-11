@@ -21,7 +21,7 @@ Read this before making any change. README.md explains how the site is built.
 
 - Copy the frontmatter format of an existing job. References run in sequence (CC-1054 was the last used). Consultants must match a file in `src/consultants/`.
 - Do NOT add a "How to Apply" section: it is generated from the consultant.
-- Apply Now buttons email the role's consultant and CC alyssa@ccentricsearch.com (set in `src/_includes/job.njk`).
+- Apply Now buttons email the role's consultant and CC alyssa@ccentricsearch.com and john@ccentricsearch.com (set in `src/_includes/job.njk`).
 - When a role is filled, set `published: false`. Do not delete the file unless asked.
 - Ask for the location and consultant if the ad does not state them. Do not guess.
 - Fix obvious typos in pasted ads and tell the user what you changed.
