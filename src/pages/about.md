@@ -22,7 +22,7 @@ Since 2001, Ccentric has grown into one of Australia's most recognised names in 
 
 ## Part of the Wavelength Group
 
-Ccentric is part of the Wavelength Group, a health workforce solutions group that has operated for more than 25 years with offices in Sydney, Melbourne, Brisbane and the Gold Coast. The group brings together specialist medical recruitment, regulatory and migration services and executive search, giving Ccentric unusual depth of reach across the health workforce, from frontline clinicians to boards.
+Ccentric is part of the Wavelength Group, a health workforce solutions group that has operated for more than 25 years with offices in Sydney, Melbourne, Brisbane and the Gold Coast. The group brings together specialist medical recruitment, Wavelength Migration Services (WMS) and executive search, giving Ccentric unusual depth of reach across the health workforce, from frontline clinicians to boards.
 
 ## Our values
 
