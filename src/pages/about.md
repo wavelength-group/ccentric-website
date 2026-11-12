@@ -3,7 +3,7 @@ title: About Ccentric
 heading: Specialists in healthcare leadership
 eyebrow: About
 intro: Executive search and leadership advisory for healthcare and the broader health economy, built on deep sector knowledge and long-term relationships.
-metaDescription: About Ccentric Executive Search - our history, our place within the Wavelength Group, our values, international reach and accreditations.
+metaDescription: About Ccentric Executive Search - our history, our place within the Wavelength Group, our values and international reach.
 ctaHeading: Start a conversation
 ctaText: Whether you are appointing your next leader or exploring your next role, our team is ready to help.
 ctaLink: ccentric-contact.html
@@ -34,7 +34,3 @@ Ccentric is part of the Wavelength Group, a health workforce solutions group tha
 ## International reach and partnerships
 
 Healthcare leadership is increasingly a global market. Ccentric draws on international networks to extend the reach of a search where a mandate calls for it, including senior life sciences and health technology appointments across Australia, New Zealand, Europe and beyond.
-
-## Accreditations and panel memberships
-
-[List current government panel memberships, preferred-supplier arrangements and professional accreditations here, for example state health department panels, professional body memberships or certifications. Confirm each before publishing.]
