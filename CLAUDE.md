@@ -40,7 +40,7 @@ Read this before making any change. README.md explains how the site is built.
 
 ## Writing style
 
-- **Never use em dashes anywhere on the site**, including copy, titles, CSS content and CMS text. Use a spaced hyphen ( - ) instead. Pasted text (job ads, policies) must be converted too.
+- **Never use em dashes anywhere on the site**, including copy, titles and CMS text. Use a spaced hyphen ( - ) instead. Exception: the decorative em-dash list markers in CSS (`li::before{content:"—"}`) stay. Pasted text (job ads, policies) must be converted too.
 - Australian spelling (organisation, specialising, licence).
 - Plain, confident and specific. No hype, no exclamation marks.
 - The Wavelength Group statement on the About page (more than 25 years, group offices) is about Wavelength, not Ccentric. Do not change it when updating Ccentric figures.
