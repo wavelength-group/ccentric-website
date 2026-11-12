@@ -12,7 +12,7 @@ Read this before making any change. README.md explains how the site is built.
 
 ## Site structure gotchas
 
-- **Homepage:** `src/static/index.html`, served at `/`. All logo and home links point to `/`. The old duplicate `src/static/ccentric-stacked-impact-final.html` is redirected to `/` by `src/static/_redirects`; never link to it. Until John approves deleting it, mirror homepage changes into it.
+- **Homepage:** `src/static/index.html`, served at `/`. All logo and home links point to `/`. The old duplicate homepage was deleted; `src/static/_redirects` sends its old address to `/`.
 - Marketing pages in `src/static/` are hand-coded HTML. Each one has its own copy of the header and footer, so footer and navigation changes must be made in every file, plus `src/_includes/page.njk`, `src/_includes/job.njk` and `src/opportunities.njk`. Use grep to find every occurrence.
 - Pages in `src/pages/` use `page.njk`. `title` sets the browser tab; the optional `heading` overrides the on-page H1.
 - **Primary domain: ccentricsearch.com** (www.ccentricsearch.com). Use it in all copy, structured data and policies. Until the domain is pointed at Netlify, the new site is at ccentric-website.netlify.app and ccentric.com.au may still serve the old site, so do not tell users a change is live on the domain.
