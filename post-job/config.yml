@@ -25,11 +25,11 @@ collections:
     extension: md
     format: frontmatter
     identifier_field: title
-    summary: "{{title}} — {{location}}  ·  {{postedDate | date('D MMM YYYY')}}"
+    summary: "{{title}} - {{location}}  ·  {{postedDate | date('D MMM YYYY')}}"
     sortable_fields: [postedDate, title, location]
     fields:
       - { label: Role title, name: title, widget: string }
-      - { label: Location, name: location, widget: string, hint: "City, State — e.g. Sydney, NSW" }
+      - { label: Location, name: location, widget: string, hint: "City, State - e.g. Sydney, NSW" }
       - label: Type
         name: type
         widget: select
@@ -56,5 +56,5 @@ collections:
         widget: markdown
         hint: >-
           Use H2 headings (The Opportunity / About the Role / Key Responsibilities /
-          What's on Offer / About You). Do NOT add a 'How to Apply' section — it is
+          What's on Offer / About You). Do NOT add a 'How to Apply' section - it is
           added automatically.

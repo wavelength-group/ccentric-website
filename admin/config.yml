@@ -24,7 +24,7 @@ collections:
     extension: md
     format: frontmatter
     identifier_field: title
-    summary: "{{title}} — {{location}}  ·  {{postedDate | date('D MMM YYYY')}}  ·  {{consultant}}"
+    summary: "{{title}} - {{location}}  ·  {{postedDate | date('D MMM YYYY')}}  ·  {{consultant}}"
     sortable_fields:
       fields: [consultant, postedDate, title, location]
       default:
@@ -32,7 +32,7 @@ collections:
         direction: ascending
     fields:
       - { label: Role title, name: title, widget: string }
-      - { label: Location, name: location, widget: string, hint: "City, State — e.g. Sydney, NSW" }
+      - { label: Location, name: location, widget: string, hint: "City, State - e.g. Sydney, NSW" }
       - label: Type
         name: type
         widget: select
@@ -68,7 +68,7 @@ collections:
         widget: markdown
         hint: >-
           Use H2 headings (The Opportunity / About the Role / Key Responsibilities /
-          What's on Offer / About You). Do NOT add a 'How to Apply' section — it is
+          What's on Offer / About You). Do NOT add a 'How to Apply' section - it is
           added automatically from the consultant.
 
   - name: consultants
