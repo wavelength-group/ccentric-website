@@ -9,7 +9,7 @@ metaDescription: Ccentric Executive Search privacy policy and website terms of u
 
 ### 1. Introduction
 
-Ccentric International Pty Ltd (ABN 89 629 975 775) ("Ccentric", "we", "us", "our") takes seriously its commitment to preserve the privacy of the personal information we collect. Ccentric is wholly owned by Wavelength International Pty Ltd and is part of the Wavelength Group. This policy follows the Wavelength Group Privacy Policy and applies to Ccentric's executive search and leadership advisory work.
+Ccentric International Pty Ltd (ABN 89 629 975 775) ("Ccentric", "we", "us", "our") takes seriously its commitment to preserve the privacy of the personal information we collect. Ccentric is wholly owned by Wavelength International Pty Ltd and is part of the Wavelength Group. This policy has been developed in accordance with the Wavelength Group Privacy Policy and applies specifically to Ccentric's executive search and leadership advisory services.
 
 We manage personal information in accordance with the Privacy Act 1988 (Cth), the Australian Privacy Principles, the Health Records and Information Privacy Act 2002 (NSW) and other legislation that applies to us.
 
@@ -19,7 +19,7 @@ You have the right not to identify yourself, or to use a pseudonym, when dealing
 
 We will not use government-related identifiers to identify you unless required by law.
 
-In the course of any interim work, your details may be provided to Wavelength International for credentialing and other legal checks. Wavelength's privacy policy is at [wave.com.au/privacy-policy](https://wave.com.au/privacy-policy/).
+Personal information may be shared with Wavelength Group entities where reasonably necessary for recruitment, executive search, credentialing, compliance, operational support and other related business activities. Wavelength's privacy policy is at [wave.com.au/privacy-policy](https://wave.com.au/privacy-policy/).
 
 We aim for all collection and use of personal information to be fair, reasonable and proportionate, in line with guidance from the Office of the Australian Information Commissioner (OAIC). We review our practices regularly to stay aligned with changes to the Privacy Act and the Australian Privacy Principles.
 
@@ -59,7 +59,7 @@ Where you fit more than one category, all relevant categories apply.
 
 **Unsolicited information.** If we receive personal information we did not ask for, we take reasonable steps to remove it from our systems unless it is needed for our work.
 
-**Identity documents.** We may ask to sight proof of identity, such as a passport, visa or driver licence, where needed for a role. We will only do so where necessary, and we will tell you why.
+**Identity documents.** We may ask you to provide proof of identity, such as a passport, visa or driver licence, where needed for a role. We will only do so where necessary, and we will tell you why.
 
 ### 4. How we collect information
 
@@ -133,6 +133,8 @@ Our security measures include:
 - policies on laptop, mobile phone and portable storage security;
 - secure shredding of all paper records.
 
+Where a data breach is likely to result in serious harm, we will comply with our obligations under the Notifiable Data Breaches scheme established under the Privacy Act 1988 (Cth).
+
 We keep personal information only for as long as it is reasonably needed for our work, or as long as we are required to by law. Financial records are kept for seven (7) years. When information is no longer needed, we destroy or de-identify it, provided it is lawful to do so.
 
 ### 9. Disclosure of personal information
@@ -181,7 +183,7 @@ When we receive your complaint, we will:
 - respond within a reasonable time, usually 30 days, and tell you if we need longer;
 - suggest access or correction where that would resolve it, or another solution on a confidential, without-prejudice basis.
 
-If you are not satisfied with our response, you can take your complaint to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints).
+If you are not satisfied with our response, you can complain to the Office of the Australian Information Commissioner ([www.oaic.gov.au](https://www.oaic.gov.au)).
 
 ### 12. Changes to this policy
 
