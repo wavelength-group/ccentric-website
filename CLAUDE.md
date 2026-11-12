@@ -34,7 +34,7 @@ Read this before making any change. README.md explains how the site is built.
 - Sector list, always in full and in this order: healthcare, academia, digital health, life sciences, aged care, not-for-profit and private equity.
 - Main phone line: +61 2 8422 5300 (Sydney). It is used for all offices.
 - Offices: Sydney (67-77 Flinders St, Surry Hills NSW 2010), Melbourne (Level 3, 11-19 Bank Place, Melbourne VIC 3000), Brisbane (76-84 Brunswick St, Fortitude Valley QLD 4006), Gold Coast (Level 2, Robina Town Centre, 19 Robina Town Centre Drive, Robina QLD 4226).
-- Contact page email shows enquiries@ccentricsearch.com but links to john@ccentricsearch.com until an enquiries@ alias exists.
+- Contact page email shows enquiries@ccentricsearch.com and emails both enquiries@ccentricsearch.com and john@ccentricsearch.com.
 - Group migration business: **Wavelength Migration Services (WMS)**. Never "RMS" or "Regulatory & Migration Services".
 - Privacy contact: privacy@ccentricsearch.com (Privacy Officer, +61 2 8422 5300). Privacy policy based on Wavelength Group policy WAV 1.20.23; Ccentric data is in its own database, not Wavelength's.
 
