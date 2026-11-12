@@ -57,4 +57,4 @@ You want to build and lead a team. Later, if Germany works. Not for a considerab
 
 To apply
 
-Send your CV and a covering letter. Use the letter to tell us how you would open the German market in your first ninety days, and what in your own record shows you can do it. The search is managed on a retained basis by Wavelength Life Sciences, part of the Wavelength Group - applications and confidential enquiries to Dr John Bethell at john@ccentricsearch.com.
+Send your CV and a covering letter. Use the letter to tell us how you would open the German market in your first ninety days, and what in your own record shows you can do it. The search is managed on a retained basis by Wavelength Life Sciences, part of the Wavelength Group&ensp;-&ensp;applications and confidential enquiries to Dr John Bethell at john@ccentricsearch.com.
