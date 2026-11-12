@@ -58,12 +58,13 @@
   .chero p{font-size:16px; line-height:1.65; color:#a9c9c6; max-width:52ch; margin:22px auto 0;}
 
   /* quick-facts row, pulled straight from the live contact page */
-  .quick{display:flex; flex-direction:column; max-width:1000px; margin:40px auto 0; border-top:1px solid rgba(255,255,255,.14);}
+  .quick{display:flex; flex-direction:column; max-width:1160px; margin:40px auto 0; border-top:1px solid rgba(255,255,255,.14);}
   @media(min-width:760px){ .quick{flex-direction:row;} }
   .quick-item{flex:1; padding:22px 20px; border-bottom:1px solid rgba(255,255,255,.14); text-align:center;}
   @media(min-width:760px){ .quick-item{border-right:1px solid rgba(255,255,255,.14); border-bottom:none;} .quick-item:last-child{border-right:none;} }
-  .quick-item .label{font-size:11px; font-weight:800; letter-spacing:.1em; text-transform:uppercase; color:var(--teal-tint); margin-bottom:8px;}
-  .quick-item a, .quick-item span{font-size:15px; color:#fff; font-weight:500;}
+  .quick-item .label{font-size:13px; font-weight:800; letter-spacing:.1em; text-transform:uppercase; color:var(--teal-tint); margin-bottom:8px;}
+  .quick-item a, .quick-item span, .quick-item a{font-size:19px; line-height:1.45; color:#fff; font-weight:500;}
+  .quick-item a:hover{color:var(--teal);}
   .quick-item a:hover{color:var(--teal);}
 
   /* ---------- offices ---------- */
@@ -201,7 +202,7 @@
     <div class="quick">
       <div class="quick-item">
         <div class="label">Address</div>
-        <span>67-77 Flinders Street, Surry Hills NSW 2010</span>
+        <span>67-77 Flinders Street,<br>Surry Hills NSW 2010</span>
       </div>
       <div class="quick-item">
         <div class="label">Email</div>
