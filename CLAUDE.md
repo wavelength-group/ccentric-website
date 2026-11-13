@@ -19,6 +19,7 @@ Read this before making any change. README.md explains how the site is built.
 
 ## Jobs (`src/jobs/`)
 
+- Jobs are added and updated by asking Claude in a session (pasted ad text), not through the `/admin` or `/post-job` CMS screens, which are currently unused. Their configs stay in place but are not maintained day to day.
 - Copy the frontmatter format of an existing job. References run in sequence (CC-1054 was the last used). Consultants must match a file in `src/consultants/`.
 - Do NOT add a "How to Apply" section: it is generated from the consultant.
 - Apply Now buttons email the role's consultant and CC alyssa@ccentricsearch.com and john@ccentricsearch.com (set in `src/_includes/job.njk`).
