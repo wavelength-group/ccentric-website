@@ -75,7 +75,7 @@
   .map-backdrop svg{position:absolute; top:50%; left:50%; width:130%; height:130%; transform:translate(-50%,-50%); opacity:.20;}
   .hhero-photo{position:absolute; top:0; right:0; bottom:0; width:58%; z-index:1; pointer-events:none; background:url(hero-photo.jpg) 55% 18%/cover no-repeat; opacity:.45; mix-blend-mode:luminosity; -webkit-mask-image:linear-gradient(90deg,transparent 0%,rgba(0,0,0,.35) 30%,#000 70%); mask-image:linear-gradient(90deg,transparent 0%,rgba(0,0,0,.35) 30%,#000 70%);}
   .hhero .map-backdrop svg{-webkit-mask-image:linear-gradient(90deg,#000 0%,#000 35%,rgba(0,0,0,.25) 60%,transparent 80%); mask-image:linear-gradient(90deg,#000 0%,#000 35%,rgba(0,0,0,.25) 60%,transparent 80%);}
-  @media(max-width:760px){ .hhero-photo{width:100%; opacity:.18; -webkit-mask-image:none; mask-image:none;} .hhero .map-backdrop svg{-webkit-mask-image:none; mask-image:none;} }
+  @media(max-width:760px){ .hhero-photo{width:100%; opacity:.18; background-size:auto 280%; background-position:68% 0; -webkit-mask-image:linear-gradient(180deg,#000 0%,#000 70%,transparent 100%); mask-image:linear-gradient(180deg,#000 0%,#000 70%,transparent 100%);} .hhero .map-backdrop svg{-webkit-mask-image:none; mask-image:none;} }
   .map-backdrop svg path{fill:none; stroke:var(--teal); stroke-width:1.3;}
   .map-backdrop::after{content:""; position:absolute; top:0;left:0;right:0;bottom:0; background:linear-gradient(180deg, rgba(0,0,0,0), var(--pine-dk) 92%);}
 
