@@ -34,7 +34,7 @@ Read this before making any change. README.md explains how the site is built.
 - Sector list, always in full and in this order: healthcare, academia, digital health, life sciences, aged care, not-for-profit and private equity.
 - Main phone line: +61 2 8422 5300 (Sydney). It is used for all offices.
 - Offices: Sydney (67-77 Flinders St, Surry Hills NSW 2010), Melbourne (Level 3, 11-19 Bank Place, Melbourne VIC 3000), Brisbane (76-84 Brunswick St, Fortitude Valley QLD 4006), Gold Coast (Level 2, Robina Town Centre, 19 Robina Town Centre Drive, Robina QLD 4226).
-- Contact page email shows enquiries@ccentricsearch.com and emails both enquiries@ccentricsearch.com and john@ccentricsearch.com.
+- Contact page email shows and emails enquiries@ccentricsearch.com only (John receives enquiries@ mail, so do not add john@ to it).
 - General enquiries and CVs go to enquiries@ccentricsearch.com (Candidates page link; Contact form notifications are set in the Netlify dashboard).
 - Every page has a canonical tag pointing at https://www.ccentricsearch.com/<page> (no .html). Add one to any new page.
 - Every page also has social sharing tags (og:* and twitter:card) using its title, description, canonical URL and src/static/og-image.jpg. Copy them to any new hand-coded page.
