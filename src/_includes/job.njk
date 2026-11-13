@@ -172,8 +172,7 @@
   </nav>
 
 {%- set c = collections.consultants | consultantLookup(consultant) -%}
-{%- set subj = "Application: " + title -%}
-{%- if reference -%}{%- set subj = subj + " (" + reference + ")" -%}{%- endif -%}
+{%- set subj = "Application for " + title -%}
 {%- set applyBody = "Dear " + (c.name | firstName if c else "Ccentric team") + ",\n\nI would like to apply for the " + title + " role. Please find my CV attached, and I would welcome the opportunity to discuss the position.\n\nKind regards," -%}
 {%- if c -%}{%- set applyHref = "mailto:" + c.email + "?cc=alyssa%40ccentricsearch.com%2Cjohn%40ccentricsearch.com&subject=" + (subj | urlencode) + "&body=" + (applyBody | urlencode) -%}{%- else -%}{%- set applyHref = "ccentric-contact.html" -%}{%- endif -%}
   <header class="jhero">
