@@ -1,0 +1,13 @@
+---
+permalink: sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for slug in staticPages %}
+  <url><loc>https://www.ccentricsearch.com/{{ slug }}</loc></url>
+{%- endfor %}
+{%- for item in collections.all %}{% if item.url and item.url.endsWith(".html") %}
+  <url><loc>https://www.ccentricsearch.com{{ item.url | replace(".html", "") }}</loc>{% if item.data.postedDate %}{% set d = item.data.postedDate %}<lastmod>{% if d.toISOString %}{{ d.toISOString().slice(0, 10) }}{% else %}{{ d }}{% endif %}</lastmod>{% endif %}</url>
+{%- endif %}{% endfor %}
+</urlset>
