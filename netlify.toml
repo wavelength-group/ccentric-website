@@ -6,3 +6,16 @@
 
 [build.environment]
   NODE_VERSION = "20"
+
+# Security headers for every page (approved by John, Nov 2026).
+# No full Content-Security-Policy: the site uses inline scripts, Google Analytics,
+# Google Fonts and the CMS loads its editor from a CDN, so a strict CSP would break them.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    Content-Security-Policy = "frame-ancestors 'self'"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+    Strict-Transport-Security = "max-age=31536000"
