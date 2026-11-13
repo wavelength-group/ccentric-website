@@ -13,7 +13,10 @@
 <link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png"><link rel="icon" type="image/png" sizes="192x192" href="icon-192.png"><link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ title }}&ensp;-&ensp;{{ location }}&ensp;-&ensp;Ccentric</title>
+{%- set jobCity = ((location or "").split(",")[0]) | trim -%}
+{%- set withLocation = title + " - " + location + " - Ccentric" -%}
+<title>{{ title }}{% if location and title.indexOf(jobCity) == -1 and withLocation.length <= 62 %}&ensp;-&ensp;{{ location }}{% endif %}&ensp;-&ensp;Ccentric</title>
+<link rel="canonical" href="https://www.ccentricsearch.com{{ page.url | replace('.html', '') }}">
 <meta name="description" content="{{ metaDescription }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;700;800&display=swap" rel="stylesheet">

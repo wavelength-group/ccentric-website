@@ -45,4 +45,4 @@ Confidentiality is central to how we work, particularly for senior people who ar
 
 You do not need a live role to get on our radar. If your background is relevant to the sectors we work in, we are glad to have an exploratory conversation and keep you in mind for future mandates.
 
-To register, email your CV to our team at [enquiries@ccentricsearch.com](mailto:john@ccentricsearch.com).
+To register, email your CV to our team at [enquiries@ccentricsearch.com](mailto:enquiries@ccentricsearch.com).
