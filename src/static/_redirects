@@ -1,2 +1,10 @@
 # Old duplicate homepage address -> homepage
 /ccentric-stacked-impact-final.html  /  301
+
+# Old domain ccentric.com.au -> new primary domain (homepage).
+# Only takes effect once ccentric.com.au is added to this Netlify site as a domain alias.
+# Old page addresses are sent to the homepage; add specific old-page rules above these lines if needed.
+http://ccentric.com.au/*       https://www.ccentricsearch.com/  301!
+https://ccentric.com.au/*      https://www.ccentricsearch.com/  301!
+http://www.ccentric.com.au/*   https://www.ccentricsearch.com/  301!
+https://www.ccentric.com.au/*  https://www.ccentricsearch.com/  301!

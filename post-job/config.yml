@@ -3,8 +3,8 @@ backend:
   repo: wavelength-group/ccentric-website
   branch: main
 
-site_url: https://ccentric-website.netlify.app
-display_url: https://ccentric-website.netlify.app
+site_url: https://www.ccentricsearch.com
+display_url: https://www.ccentricsearch.com
 
 media_folder: "src/static/uploads"
 public_folder: "/uploads"

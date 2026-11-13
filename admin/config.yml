@@ -3,9 +3,9 @@ backend:
   repo: wavelength-group/ccentric-website
   branch: main
 
-# Preview/admin site address (update to the live domain after cut-over)
-site_url: https://ccentric-website.netlify.app
-display_url: https://ccentric-website.netlify.app
+# Live site address
+site_url: https://www.ccentricsearch.com
+display_url: https://www.ccentricsearch.com
 
 # Image uploads (jobs currently use no images; here for future use)
 media_folder: "src/static/uploads"
