@@ -6,6 +6,6 @@ const path = require("path");
 module.exports = () =>
   fs
     .readdirSync(path.join(__dirname, "..", "static"))
-    .filter((f) => f.endsWith(".html"))
+    .filter((f) => f.endsWith(".html") && f !== "404.html")
     .map((f) => (f === "index.html" ? "" : f.replace(/\.html$/, "")))
     .sort();
