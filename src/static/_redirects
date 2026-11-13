@@ -1,2 +1,253 @@
 # Old duplicate homepage address -> homepage
 /ccentric-stacked-impact-final.html  /  301
+
+# Old domain ccentric.com.au -> www.ccentricsearch.com.
+# Takes effect once ccentric.com.au is added to this Netlify site as a domain alias.
+# Specific old pages first; the final /* rules send anything else to the new homepage.
+# Mapping made from the old site sitemaps (Nov 2026). If a job is unpublished later, update its rule to /ccentric-opportunities.
+
+# /about-us/  ->  /ccentric-about
+http://ccentric.com.au/about-us  https://www.ccentricsearch.com/ccentric-about  301!
+https://ccentric.com.au/about-us  https://www.ccentricsearch.com/ccentric-about  301!
+http://www.ccentric.com.au/about-us  https://www.ccentricsearch.com/ccentric-about  301!
+https://www.ccentric.com.au/about-us  https://www.ccentricsearch.com/ccentric-about  301!
+
+# /contact-us/  ->  /ccentric-contact
+http://ccentric.com.au/contact-us  https://www.ccentricsearch.com/ccentric-contact  301!
+https://ccentric.com.au/contact-us  https://www.ccentricsearch.com/ccentric-contact  301!
+http://www.ccentric.com.au/contact-us  https://www.ccentricsearch.com/ccentric-contact  301!
+https://www.ccentric.com.au/contact-us  https://www.ccentricsearch.com/ccentric-contact  301!
+
+# /thanks-for-your-message/  ->  /ccentric-contact   (Old form thank-you page)
+http://ccentric.com.au/thanks-for-your-message  https://www.ccentricsearch.com/ccentric-contact  301!
+https://ccentric.com.au/thanks-for-your-message  https://www.ccentricsearch.com/ccentric-contact  301!
+http://www.ccentric.com.au/thanks-for-your-message  https://www.ccentricsearch.com/ccentric-contact  301!
+https://www.ccentric.com.au/thanks-for-your-message  https://www.ccentricsearch.com/ccentric-contact  301!
+
+# /current-opportunities/  ->  /ccentric-opportunities
+http://ccentric.com.au/current-opportunities  https://www.ccentricsearch.com/ccentric-opportunities  301!
+https://ccentric.com.au/current-opportunities  https://www.ccentricsearch.com/ccentric-opportunities  301!
+http://www.ccentric.com.au/current-opportunities  https://www.ccentricsearch.com/ccentric-opportunities  301!
+https://www.ccentric.com.au/current-opportunities  https://www.ccentricsearch.com/ccentric-opportunities  301!
+
+# /job-listings/  ->  /ccentric-opportunities
+http://ccentric.com.au/job-listings  https://www.ccentricsearch.com/ccentric-opportunities  301!
+https://ccentric.com.au/job-listings  https://www.ccentricsearch.com/ccentric-opportunities  301!
+http://www.ccentric.com.au/job-listings  https://www.ccentricsearch.com/ccentric-opportunities  301!
+https://www.ccentric.com.au/job-listings  https://www.ccentricsearch.com/ccentric-opportunities  301!
+
+# /job/clinical-director-obstetrics-gynaecology-bairnsdale-regional-health-service-latrobe-regional-health/  ->  /ccentric-opportunity-clinical-director-obstetrics-gynaecology-gippsland   (Same job ad)
+http://ccentric.com.au/job/clinical-director-obstetrics-gynaecology-bairnsdale-regional-health-service-latrobe-regional-health  https://www.ccentricsearch.com/ccentric-opportunity-clinical-director-obstetrics-gynaecology-gippsland  301!
+https://ccentric.com.au/job/clinical-director-obstetrics-gynaecology-bairnsdale-regional-health-service-latrobe-regional-health  https://www.ccentricsearch.com/ccentric-opportunity-clinical-director-obstetrics-gynaecology-gippsland  301!
+http://www.ccentric.com.au/job/clinical-director-obstetrics-gynaecology-bairnsdale-regional-health-service-latrobe-regional-health  https://www.ccentricsearch.com/ccentric-opportunity-clinical-director-obstetrics-gynaecology-gippsland  301!
+https://www.ccentric.com.au/job/clinical-director-obstetrics-gynaecology-bairnsdale-regional-health-service-latrobe-regional-health  https://www.ccentricsearch.com/ccentric-opportunity-clinical-director-obstetrics-gynaecology-gippsland  301!
+
+# /job/chief-medical-officer-mildura-base-public-hospital/  ->  /ccentric-opportunity-chief-medical-officer-mildura-base-public-hospital   (Same job ad)
+http://ccentric.com.au/job/chief-medical-officer-mildura-base-public-hospital  https://www.ccentricsearch.com/ccentric-opportunity-chief-medical-officer-mildura-base-public-hospital  301!
+https://ccentric.com.au/job/chief-medical-officer-mildura-base-public-hospital  https://www.ccentricsearch.com/ccentric-opportunity-chief-medical-officer-mildura-base-public-hospital  301!
+http://www.ccentric.com.au/job/chief-medical-officer-mildura-base-public-hospital  https://www.ccentricsearch.com/ccentric-opportunity-chief-medical-officer-mildura-base-public-hospital  301!
+https://www.ccentric.com.au/job/chief-medical-officer-mildura-base-public-hospital  https://www.ccentricsearch.com/ccentric-opportunity-chief-medical-officer-mildura-base-public-hospital  301!
+
+# /job/manager-people-culture-central-gippsland-health/  ->  /ccentric-opportunity-manager-people-and-culture-central-gippsland-health   (Same job ad)
+http://ccentric.com.au/job/manager-people-culture-central-gippsland-health  https://www.ccentricsearch.com/ccentric-opportunity-manager-people-and-culture-central-gippsland-health  301!
+https://ccentric.com.au/job/manager-people-culture-central-gippsland-health  https://www.ccentricsearch.com/ccentric-opportunity-manager-people-and-culture-central-gippsland-health  301!
+http://www.ccentric.com.au/job/manager-people-culture-central-gippsland-health  https://www.ccentricsearch.com/ccentric-opportunity-manager-people-and-culture-central-gippsland-health  301!
+https://www.ccentric.com.au/job/manager-people-culture-central-gippsland-health  https://www.ccentricsearch.com/ccentric-opportunity-manager-people-and-culture-central-gippsland-health  301!
+
+# /job/clinical-director-of-radiology-keystone-radiology/  ->  /ccentric-opportunity-clinical-director-of-radiology   (Same job ad)
+http://ccentric.com.au/job/clinical-director-of-radiology-keystone-radiology  https://www.ccentricsearch.com/ccentric-opportunity-clinical-director-of-radiology  301!
+https://ccentric.com.au/job/clinical-director-of-radiology-keystone-radiology  https://www.ccentricsearch.com/ccentric-opportunity-clinical-director-of-radiology  301!
+http://www.ccentric.com.au/job/clinical-director-of-radiology-keystone-radiology  https://www.ccentricsearch.com/ccentric-opportunity-clinical-director-of-radiology  301!
+https://www.ccentric.com.au/job/clinical-director-of-radiology-keystone-radiology  https://www.ccentricsearch.com/ccentric-opportunity-clinical-director-of-radiology  301!
+
+# /job/director-of-clinical-services-the-shepherd-centre/  ->  /ccentric-opportunity-director-of-clinical-services-the-shepherd-centre   (Same job ad)
+http://ccentric.com.au/job/director-of-clinical-services-the-shepherd-centre  https://www.ccentricsearch.com/ccentric-opportunity-director-of-clinical-services-the-shepherd-centre  301!
+https://ccentric.com.au/job/director-of-clinical-services-the-shepherd-centre  https://www.ccentricsearch.com/ccentric-opportunity-director-of-clinical-services-the-shepherd-centre  301!
+http://www.ccentric.com.au/job/director-of-clinical-services-the-shepherd-centre  https://www.ccentricsearch.com/ccentric-opportunity-director-of-clinical-services-the-shepherd-centre  301!
+https://www.ccentric.com.au/job/director-of-clinical-services-the-shepherd-centre  https://www.ccentricsearch.com/ccentric-opportunity-director-of-clinical-services-the-shepherd-centre  301!
+
+# /job/director-of-anaesthesia-echuca-regional-health/  ->  /ccentric-opportunity-director-of-anaesthesia-echuca-regional-health   (Same job ad)
+http://ccentric.com.au/job/director-of-anaesthesia-echuca-regional-health  https://www.ccentricsearch.com/ccentric-opportunity-director-of-anaesthesia-echuca-regional-health  301!
+https://ccentric.com.au/job/director-of-anaesthesia-echuca-regional-health  https://www.ccentricsearch.com/ccentric-opportunity-director-of-anaesthesia-echuca-regional-health  301!
+http://www.ccentric.com.au/job/director-of-anaesthesia-echuca-regional-health  https://www.ccentricsearch.com/ccentric-opportunity-director-of-anaesthesia-echuca-regional-health  301!
+https://www.ccentric.com.au/job/director-of-anaesthesia-echuca-regional-health  https://www.ccentricsearch.com/ccentric-opportunity-director-of-anaesthesia-echuca-regional-health  301!
+
+# /job/*  ->  /ccentric-opportunities   (Any other old job ad)
+http://ccentric.com.au/job/*  https://www.ccentricsearch.com/ccentric-opportunities  301!
+https://ccentric.com.au/job/*  https://www.ccentricsearch.com/ccentric-opportunities  301!
+http://www.ccentric.com.au/job/*  https://www.ccentricsearch.com/ccentric-opportunities  301!
+https://www.ccentric.com.au/job/*  https://www.ccentricsearch.com/ccentric-opportunities  301!
+
+# /meet-the-team/  ->  /ccentric-team
+http://ccentric.com.au/meet-the-team  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/kim-gillespie/  ->  /ccentric-team   (Individual profile; new site has one team page)
+http://ccentric.com.au/meet-the-team/kim-gillespie  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/kim-gillespie  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/kim-gillespie  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/kim-gillespie  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/alyssa-reynolds/  ->  /ccentric-team   (Individual profile; new site has one team page)
+http://ccentric.com.au/meet-the-team/alyssa-reynolds  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/alyssa-reynolds  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/alyssa-reynolds  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/alyssa-reynolds  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/chloe-jiang/  ->  /ccentric-team   (Individual profile; new site has one team page)
+http://ccentric.com.au/meet-the-team/chloe-jiang  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/chloe-jiang  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/chloe-jiang  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/chloe-jiang  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/rebecca-youn/  ->  /ccentric-team   (Individual profile; new site has one team page)
+http://ccentric.com.au/meet-the-team/rebecca-youn  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/rebecca-youn  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/rebecca-youn  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/rebecca-youn  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/tahlia-mitchell-kerr/  ->  /ccentric-team   (Individual profile; new site has one team page)
+http://ccentric.com.au/meet-the-team/tahlia-mitchell-kerr  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/tahlia-mitchell-kerr  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/tahlia-mitchell-kerr  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/tahlia-mitchell-kerr  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/john-bethell/  ->  /ccentric-team   (Individual profile; new site has one team page)
+http://ccentric.com.au/meet-the-team/john-bethell  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/john-bethell  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/john-bethell  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/john-bethell  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/claire-ponsford/  ->  /ccentric-team   (Individual profile; new site has one team page)
+http://ccentric.com.au/meet-the-team/claire-ponsford  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/claire-ponsford  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/claire-ponsford  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/claire-ponsford  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/pam-lubrainschik/  ->  /ccentric-team   (Individual profile; new site has one team page)
+http://ccentric.com.au/meet-the-team/pam-lubrainschik  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/pam-lubrainschik  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/pam-lubrainschik  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/pam-lubrainschik  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /meet-the-team/*  ->  /ccentric-team   (Any other old profile)
+http://ccentric.com.au/meet-the-team/*  https://www.ccentricsearch.com/ccentric-team  301!
+https://ccentric.com.au/meet-the-team/*  https://www.ccentricsearch.com/ccentric-team  301!
+http://www.ccentric.com.au/meet-the-team/*  https://www.ccentricsearch.com/ccentric-team  301!
+https://www.ccentric.com.au/meet-the-team/*  https://www.ccentricsearch.com/ccentric-team  301!
+
+# /interim-solutions/  ->  /ccentric-interim-solutions
+http://ccentric.com.au/interim-solutions  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://ccentric.com.au/interim-solutions  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+http://www.ccentric.com.au/interim-solutions  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://www.ccentric.com.au/interim-solutions  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+
+# /health-executive/  ->  /ccentric-industry-healthcare
+http://ccentric.com.au/health-executive  https://www.ccentricsearch.com/ccentric-industry-healthcare  301!
+https://ccentric.com.au/health-executive  https://www.ccentricsearch.com/ccentric-industry-healthcare  301!
+http://www.ccentric.com.au/health-executive  https://www.ccentricsearch.com/ccentric-industry-healthcare  301!
+https://www.ccentric.com.au/health-executive  https://www.ccentricsearch.com/ccentric-industry-healthcare  301!
+
+# /digital-health/  ->  /ccentric-industry-digital-health-life-sciences
+http://ccentric.com.au/digital-health  https://www.ccentricsearch.com/ccentric-industry-digital-health-life-sciences  301!
+https://ccentric.com.au/digital-health  https://www.ccentricsearch.com/ccentric-industry-digital-health-life-sciences  301!
+http://www.ccentric.com.au/digital-health  https://www.ccentricsearch.com/ccentric-industry-digital-health-life-sciences  301!
+https://www.ccentric.com.au/digital-health  https://www.ccentricsearch.com/ccentric-industry-digital-health-life-sciences  301!
+
+# /health-academia/  ->  /ccentric-industry-academia
+http://ccentric.com.au/health-academia  https://www.ccentricsearch.com/ccentric-industry-academia  301!
+https://ccentric.com.au/health-academia  https://www.ccentricsearch.com/ccentric-industry-academia  301!
+http://www.ccentric.com.au/health-academia  https://www.ccentricsearch.com/ccentric-industry-academia  301!
+https://www.ccentric.com.au/health-academia  https://www.ccentricsearch.com/ccentric-industry-academia  301!
+
+# /not-for-profit/  ->  /ccentric-industry-not-for-profit
+http://ccentric.com.au/not-for-profit  https://www.ccentricsearch.com/ccentric-industry-not-for-profit  301!
+https://ccentric.com.au/not-for-profit  https://www.ccentricsearch.com/ccentric-industry-not-for-profit  301!
+http://www.ccentric.com.au/not-for-profit  https://www.ccentricsearch.com/ccentric-industry-not-for-profit  301!
+https://www.ccentric.com.au/not-for-profit  https://www.ccentricsearch.com/ccentric-industry-not-for-profit  301!
+
+# /privacy-policy/  ->  /ccentric-privacy
+http://ccentric.com.au/privacy-policy  https://www.ccentricsearch.com/ccentric-privacy  301!
+https://ccentric.com.au/privacy-policy  https://www.ccentricsearch.com/ccentric-privacy  301!
+http://www.ccentric.com.au/privacy-policy  https://www.ccentricsearch.com/ccentric-privacy  301!
+https://www.ccentric.com.au/privacy-policy  https://www.ccentricsearch.com/ccentric-privacy  301!
+
+# /terms-conditions/  ->  /ccentric-privacy   (New page combines Privacy & Terms)
+http://ccentric.com.au/terms-conditions  https://www.ccentricsearch.com/ccentric-privacy  301!
+https://ccentric.com.au/terms-conditions  https://www.ccentricsearch.com/ccentric-privacy  301!
+http://www.ccentric.com.au/terms-conditions  https://www.ccentricsearch.com/ccentric-privacy  301!
+https://www.ccentric.com.au/terms-conditions  https://www.ccentricsearch.com/ccentric-privacy  301!
+
+# /join-the-team/  ->  /ccentric-candidates   (Is this for candidates registering, or jobs at Ccentric itself?)
+http://ccentric.com.au/join-the-team  https://www.ccentricsearch.com/ccentric-candidates  301!
+https://ccentric.com.au/join-the-team  https://www.ccentricsearch.com/ccentric-candidates  301!
+http://www.ccentric.com.au/join-the-team  https://www.ccentricsearch.com/ccentric-candidates  301!
+https://www.ccentric.com.au/join-the-team  https://www.ccentricsearch.com/ccentric-candidates  301!
+
+# /testimonials/  ->  /ccentric-track-record   (No testimonials page on new site)
+http://ccentric.com.au/testimonials  https://www.ccentricsearch.com/ccentric-track-record  301!
+https://ccentric.com.au/testimonials  https://www.ccentricsearch.com/ccentric-track-record  301!
+http://www.ccentric.com.au/testimonials  https://www.ccentricsearch.com/ccentric-track-record  301!
+https://www.ccentric.com.au/testimonials  https://www.ccentricsearch.com/ccentric-track-record  301!
+
+# /leader-development/  ->  /ccentric-consulting   (Consulting covers leadership coaching and advisory)
+http://ccentric.com.au/leader-development  https://www.ccentricsearch.com/ccentric-consulting  301!
+https://ccentric.com.au/leader-development  https://www.ccentricsearch.com/ccentric-consulting  301!
+http://www.ccentric.com.au/leader-development  https://www.ccentricsearch.com/ccentric-consulting  301!
+https://www.ccentric.com.au/leader-development  https://www.ccentricsearch.com/ccentric-consulting  301!
+
+# /industry/the-future-of-australian-healthcare/  ->  /ccentric-industry-healthcare   (Article not carried over)
+http://ccentric.com.au/industry/the-future-of-australian-healthcare  https://www.ccentricsearch.com/ccentric-industry-healthcare  301!
+https://ccentric.com.au/industry/the-future-of-australian-healthcare  https://www.ccentricsearch.com/ccentric-industry-healthcare  301!
+http://www.ccentric.com.au/industry/the-future-of-australian-healthcare  https://www.ccentricsearch.com/ccentric-industry-healthcare  301!
+https://www.ccentric.com.au/industry/the-future-of-australian-healthcare  https://www.ccentricsearch.com/ccentric-industry-healthcare  301!
+
+# /industry/working-towards-a-greater-good/  ->  /ccentric-industry-not-for-profit   (Article not carried over)
+http://ccentric.com.au/industry/working-towards-a-greater-good  https://www.ccentricsearch.com/ccentric-industry-not-for-profit  301!
+https://ccentric.com.au/industry/working-towards-a-greater-good  https://www.ccentricsearch.com/ccentric-industry-not-for-profit  301!
+http://www.ccentric.com.au/industry/working-towards-a-greater-good  https://www.ccentricsearch.com/ccentric-industry-not-for-profit  301!
+https://www.ccentric.com.au/industry/working-towards-a-greater-good  https://www.ccentricsearch.com/ccentric-industry-not-for-profit  301!
+
+# /industry/tips-for-aspiring-leaders/  ->  /ccentric-candidates   (Article not carried over)
+http://ccentric.com.au/industry/tips-for-aspiring-leaders  https://www.ccentricsearch.com/ccentric-candidates  301!
+https://ccentric.com.au/industry/tips-for-aspiring-leaders  https://www.ccentricsearch.com/ccentric-candidates  301!
+http://www.ccentric.com.au/industry/tips-for-aspiring-leaders  https://www.ccentricsearch.com/ccentric-candidates  301!
+https://www.ccentric.com.au/industry/tips-for-aspiring-leaders  https://www.ccentricsearch.com/ccentric-candidates  301!
+
+# /news/ccentric-group-reinforces-doctor-led-executive-search-vision/  ->  /ccentric-about   (News post not carried over)
+http://ccentric.com.au/news/ccentric-group-reinforces-doctor-led-executive-search-vision  https://www.ccentricsearch.com/ccentric-about  301!
+https://ccentric.com.au/news/ccentric-group-reinforces-doctor-led-executive-search-vision  https://www.ccentricsearch.com/ccentric-about  301!
+http://www.ccentric.com.au/news/ccentric-group-reinforces-doctor-led-executive-search-vision  https://www.ccentricsearch.com/ccentric-about  301!
+https://www.ccentric.com.au/news/ccentric-group-reinforces-doctor-led-executive-search-vision  https://www.ccentricsearch.com/ccentric-about  301!
+
+# /case-studies/case-study-interim-executive-director-medical-services/  ->  /ccentric-interim-solutions   (Case study not carried over)
+http://ccentric.com.au/case-studies/case-study-interim-executive-director-medical-services  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://ccentric.com.au/case-studies/case-study-interim-executive-director-medical-services  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+http://www.ccentric.com.au/case-studies/case-study-interim-executive-director-medical-services  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://www.ccentric.com.au/case-studies/case-study-interim-executive-director-medical-services  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+
+# /case-studies/case-study-interim-quality-manager/  ->  /ccentric-interim-solutions   (Case study not carried over)
+http://ccentric.com.au/case-studies/case-study-interim-quality-manager  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://ccentric.com.au/case-studies/case-study-interim-quality-manager  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+http://www.ccentric.com.au/case-studies/case-study-interim-quality-manager  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://www.ccentric.com.au/case-studies/case-study-interim-quality-manager  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+
+# /case-studies/case-study-strategic-interim-dcs/  ->  /ccentric-interim-solutions   (Case study not carried over)
+http://ccentric.com.au/case-studies/case-study-strategic-interim-dcs  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://ccentric.com.au/case-studies/case-study-strategic-interim-dcs  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+http://www.ccentric.com.au/case-studies/case-study-strategic-interim-dcs  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://www.ccentric.com.au/case-studies/case-study-strategic-interim-dcs  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+
+# /uncategorized/interim-healthcare-executive-roles-unlock-your-potential-advance-your-career/  ->  /ccentric-interim-solutions   (Article not carried over)
+http://ccentric.com.au/uncategorized/interim-healthcare-executive-roles-unlock-your-potential-advance-your-career  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://ccentric.com.au/uncategorized/interim-healthcare-executive-roles-unlock-your-potential-advance-your-career  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+http://www.ccentric.com.au/uncategorized/interim-healthcare-executive-roles-unlock-your-potential-advance-your-career  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+https://www.ccentric.com.au/uncategorized/interim-healthcare-executive-roles-unlock-your-potential-advance-your-career  https://www.ccentricsearch.com/ccentric-interim-solutions  301!
+
+# /*  ->  /   (Everything else, including the old homepage)
+http://ccentric.com.au/*  https://www.ccentricsearch.com/  301!
+https://ccentric.com.au/*  https://www.ccentricsearch.com/  301!
+http://www.ccentric.com.au/*  https://www.ccentricsearch.com/  301!
+https://www.ccentric.com.au/*  https://www.ccentricsearch.com/  301!

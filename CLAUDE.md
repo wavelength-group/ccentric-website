@@ -15,7 +15,7 @@ Read this before making any change. README.md explains how the site is built.
 - **Homepage:** `src/static/index.html`, served at `/`. All logo and home links point to `/`. The old duplicate homepage was deleted; `src/static/_redirects` sends its old address to `/`.
 - Marketing pages in `src/static/` are hand-coded HTML. Each one has its own copy of the header and footer, so footer and navigation changes must be made in every file, plus `src/_includes/page.njk`, `src/_includes/job.njk` and `src/opportunities.njk`. Use grep to find every occurrence.
 - Pages in `src/pages/` use `page.njk`. `title` sets the browser tab; the optional `heading` overrides the on-page H1.
-- **Primary domain: ccentricsearch.com** (www.ccentricsearch.com). Use it in all copy, structured data and policies. Until the domain is pointed at Netlify, the new site is at ccentric-website.netlify.app and ccentric.com.au may still serve the old site, so do not tell users a change is live on the domain.
+- **Primary domain: ccentricsearch.com** (www.ccentricsearch.com). Use it in all copy, structured data and policies. The site is live there (Netlify primary domain; ccentricsearch.com and ccentric-website.netlify.app also serve it). The old domain ccentric.com.au redirects to the new homepage via `src/static/_redirects` once it is added to Netlify as a domain alias.
 
 ## Jobs (`src/jobs/`)
 
