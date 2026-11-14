@@ -1,6 +1,10 @@
 # Old duplicate homepage address -> homepage
 /ccentric-stacked-impact-final.html  /  301
 
+# Filled or withdrawn roles -> Current Opportunities
+/ccentric-opportunity-director-of-nursing-and-midwifery-lismore-base-hospital  /ccentric-opportunities  301
+/ccentric-opportunity-director-of-nursing-and-midwifery-lismore-base-hospital.html  /ccentric-opportunities  301
+
 # Old domain ccentric.com.au -> www.ccentricsearch.com.
 # Takes effect once ccentric.com.au is added to this Netlify site as a domain alias.
 # Specific old pages first; the final /* rules send anything else to the new homepage.

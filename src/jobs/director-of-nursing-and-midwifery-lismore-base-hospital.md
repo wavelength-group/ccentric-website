@@ -8,7 +8,7 @@ consultant: "Kim Gillespie"
 teaser: "Lead nursing and midwifery services at the largest hospital in Northern NSW Local Health District. Full time, Nurse Manager Grade 7."
 metaDescription: "Director of Nursing and Midwifery, Lismore Base Hospital, Northern NSW. Full time, Nurse Manager Grade 7. Lead nursing and midwifery at the district's largest tertiary referral hospital. Apply via Ccentric."
 postedDate: 2026-11-10
-published: true
+published: false
 ---
 
 - **Position classification:** Nurse Manager Grade 7
