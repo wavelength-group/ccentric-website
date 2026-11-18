@@ -157,6 +157,7 @@ As part of the Wavelength Group, personal information may also be accessed by au
 | Country | Information | Likely recipients |
 | --- | --- | --- |
 | New Zealand, Singapore | CVs, qualifications and background check results | Clients based in those countries, and in New Zealand, the Medical Council and immigration advisers where relevant |
+| France, Spain, United Kingdom | Information reasonably required for recruitment, executive search, credentialing, compliance, operational, administrative or technology support activities | Authorised Wavelength Group personnel and approved contractors providing support services from those countries |
 | Other countries | Information needed for a specific search, or information reasonably required for recruitment, executive search, credentialing, compliance, operational or technology support activities | Clients or partner search firms located there where a search requires it, and authorised Wavelength Group personnel, contractors or service providers providing support services |
 | Other Australian states and territories | Health information | Clients outside NSW, where required for a role |
 
