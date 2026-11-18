@@ -150,12 +150,14 @@ Disclosure will usually be to:
 
 We require everyone who handles personal information on our behalf to comply with our privacy, confidentiality and security requirements. Where a reference was given electronically, we may share limited technical information, such as an IP address, where reasonably necessary to verify the reference or prevent fraud.
 
+As part of the Wavelength Group, personal information may also be accessed by authorised Wavelength Group personnel and approved contractors where reasonably necessary to provide recruitment, executive search, credentialing, compliance, operational, administrative or technology support services. In some circumstances, these personnel or contractors may be located outside Australia.
+
 **Cross-border disclosures.** Some personal information may be disclosed overseas, or in the case of health information, outside New South Wales. So far as practicable, the likely recipients are:
 
 | Country | Information | Likely recipients |
 | --- | --- | --- |
 | New Zealand, Singapore | CVs, qualifications and background check results | Clients based in those countries, and in New Zealand, the Medical Council and immigration advisers where relevant |
-| Other countries | Information needed for a specific search | Clients or partner search firms located there, where a search requires it |
+| Other countries | Information needed for a specific search, or information reasonably required for recruitment, executive search, credentialing, compliance, operational or technology support activities | Clients or partner search firms located there where a search requires it, and authorised Wavelength Group personnel, contractors or service providers providing support services |
 | Other Australian states and territories | Health information | Clients outside NSW, where required for a role |
 
 We take reasonable steps to ensure overseas recipients are bound to protect your information consistently with the Australian Privacy Principles.
@@ -213,4 +215,4 @@ To the extent permitted by law, Ccentric is not liable to you for any loss or da
 
 **Governing law.** These terms are governed by the laws of New South Wales, Australia and you submit to the non-exclusive jurisdiction of courts exercising jurisdiction in New South Wales.
 
-**Changes.** We may update this Privacy Policy and these Terms from time to time. The current version will always be available on this page. Last updated: 12 November 2026.
+**Changes.** We may update this Privacy Policy and these Terms from time to time. The current version will always be available on this page. Last updated: 18 November 2026.
