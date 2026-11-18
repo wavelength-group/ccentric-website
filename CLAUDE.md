@@ -22,7 +22,7 @@ Read this before making any change. README.md explains how the site is built.
 - Jobs are added and updated by asking Claude in a session (pasted ad text), not through the `/admin` or `/post-job` CMS screens, which are currently unused. Their configs stay in place but are not maintained day to day.
 - Copy the frontmatter format of an existing job. References run in sequence (CC-1054 was the last used). Consultants must match a file in `src/consultants/`.
 - Do NOT add a "How to Apply" section: it is generated from the consultant.
-- Apply Now buttons email the role's consultant and CC alyssa@ccentricsearch.com and john@ccentricsearch.com (set in `src/_includes/job.njk`) The two CC addresses are separated by a semicolon (`%3B`), because comma-separated CCs failed in testing in Outlook.
+- Apply Now buttons email the role's consultant and CC alyssa@ccentricsearch.com and john@ccentricsearch.com, with the subject "Application for [Title] (CC-xxxx)" (set in `src/_includes/job.njk`). The consultant's email link in How to Apply, and any link to the consultant's email in the ad text, open the same pre-filled email. Write the consultant's address in ads as a link (`<kim@ccentricsearch.com>`), not plain text, so this applies.The two CC addresses are separated by a semicolon (`%3B`), because comma-separated CCs failed in testing in Outlook.
 - When a role is filled, set `published: false`, and add its old address to the "Filled or withdrawn roles" block in `src/static/_redirects` (to `/ccentric-opportunities`) so shared links do not hit the 404 page. Do not delete the file unless asked.
 - Ask for the location and consultant if the ad does not state them. Do not guess.
 - Fix obvious typos in pasted ads and tell the user what you changed.
