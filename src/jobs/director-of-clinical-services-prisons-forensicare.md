@@ -42,9 +42,7 @@ We are seeking a psychiatrist and people leader with:
 - Proven leadership of a medical workforce, with expertise in clinical governance, quality and risk management
 - Senior leadership experience in a complex health service, and the operational judgement to make timely calls
 
-Experienced consultants ready for their first directorship are encouraged to apply.
-
-There is more to this role than fits in an ad. To apply, send your resume and a covering letter.
+Experienced consultants ready for their first director-level role are encouraged to apply.
 
 **Closing date for applications: Sunday 3 January 2027.**
 
