@@ -44,6 +44,5 @@ It is an exciting opportunity for an experienced senior leader who has:
 ## Additional Information
 
 - **Remuneration:** please refer to the [Staff Specialist State award](https://www.health.nsw.gov.au/careers/conditions/Awards/staff-specialists-award.pdf) for the Total Remuneration Package.
-- **Role description:** for more information, please read the [full Role Description](https://www1.health.nsw.gov.au/pds/ActivePDSDocuments/IB2026_006.pdf).
 
 **Closing date for applications: 17 January 2027.**
